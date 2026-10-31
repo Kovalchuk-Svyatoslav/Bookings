@@ -79,6 +79,15 @@ fs.access(options.input, fs.constants.F_OK, (err) => {
         const jsonResponse = JSON.stringify(result, null, 2);
         res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
         res.end(jsonResponse);
+
+        // Запис у файл виводу
+        if (options.output) {
+          fs.writeFile(options.output, jsonResponse, 'utf-8', (writeErr) => {
+            if (writeErr) {
+              console.error('Не вдалося записати файл виводу:', writeErr);
+            }
+          });
+        }
       } catch (parseErr) {
         res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
         res.end('Помилка 500: Пошкоджений JSON-файл.');
