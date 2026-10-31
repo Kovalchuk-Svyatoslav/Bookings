@@ -31,8 +31,21 @@ fs.access(options.input, fs.constants.F_OK, (err) => {
       return res.end('Помилка 404: Маршрут не знайдено.');
     }
 
+    // Розбір параметрів запиту
+    const paymentFlag = parsedUrl.searchParams.get('payment') === 'true';
+    let minValueParam = parsedUrl.searchParams.get('min_value');
+    let minValue = null;
+
+    if (minValueParam !== null) {
+      minValue = Number(minValueParam);
+      if (isNaN(minValue)) {
+        res.writeHead(400, { 'Content-Type': 'text/plain; charset=utf-8' });
+        return res.end('Помилка 400: Параметр min_value має бути числом.');
+      }
+    }
+
     res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.end('Маршрут правильний.');
+    res.end('Параметри успішно розібрано.');
   });
 
   server.listen(options.port, options.host, () => {
