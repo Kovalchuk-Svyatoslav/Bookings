@@ -21,10 +21,18 @@ fs.access(options.input, fs.constants.F_OK, (err) => {
     process.exit(1);
   }
 
+  // Створення HTTP-сервера
   const server = http.createServer((req, res) => {
+    const parsedUrl = new URL(req.url, `http://${options.host}:${options.port}`);
+
+    // Перевірка шляху запиту
+    if (parsedUrl.pathname !== '/') {
+      res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
+      return res.end('Помилка 404: Маршрут не знайдено.');
+    }
 
     res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.end(JSON.stringify({ message: 'Сервер працює' }));
+    res.end('Маршрут правильний.');
   });
 
   server.listen(options.port, options.host, () => {

@@ -1,0 +1,278 @@
+[
+  {
+    "booking_id": "CNR9312632867",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2936,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR6012739836",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2989,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR5613886410",
+    "vehicle_type": "Auto",
+    "booking_value": 2604,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR3491700602",
+    "vehicle_type": "Mini",
+    "booking_value": 2542,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR1167401662",
+    "vehicle_type": "Mini",
+    "booking_value": 2900,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR9102117353",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 2884,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR2055496400",
+    "vehicle_type": "Auto",
+    "booking_value": 2925,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR7697944209",
+    "vehicle_type": "Auto",
+    "booking_value": 2801,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR1983010766",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 2655,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR4679441912",
+    "vehicle_type": "Bike",
+    "booking_value": 2655,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR3629707818",
+    "vehicle_type": "eBike",
+    "booking_value": 2712,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR5495479048",
+    "vehicle_type": "Auto",
+    "booking_value": 2890,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR1525361077",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2509,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR3686926291",
+    "vehicle_type": "eBike",
+    "booking_value": 2944,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR5075935226",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2695,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR3096920957",
+    "vehicle_type": "Auto",
+    "booking_value": 2851,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR6844255970",
+    "vehicle_type": "eBike",
+    "booking_value": 2638,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR5961372525",
+    "vehicle_type": "Auto",
+    "booking_value": 2684,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR2100101481",
+    "vehicle_type": "Mini",
+    "booking_value": 2681,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR6672329764",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2981,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR5940757396",
+    "vehicle_type": "Mini",
+    "booking_value": 2501,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR7375877575",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 2926,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR8778214565",
+    "vehicle_type": "eBike",
+    "booking_value": 2642,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR8516409614",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2877,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR5275953890",
+    "vehicle_type": "Mini",
+    "booking_value": 2720,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR2346546694",
+    "vehicle_type": "Auto",
+    "booking_value": 2632,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR4349498244",
+    "vehicle_type": "Auto",
+    "booking_value": 2972,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR8746895101",
+    "vehicle_type": "Mini",
+    "booking_value": 2685,
+    "payment_method": "Credit Card"
+  },
+  {
+    "booking_id": "CNR6380779912",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2831,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR3421104979",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2502,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR8214388305",
+    "vehicle_type": "eBike",
+    "booking_value": 2897,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR7472625477",
+    "vehicle_type": "Bike",
+    "booking_value": 2530,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR9662810137",
+    "vehicle_type": "Mini",
+    "booking_value": 2543,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR6975711167",
+    "vehicle_type": "Bike",
+    "booking_value": 2959,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR5670521311",
+    "vehicle_type": "Auto",
+    "booking_value": 2693,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR8469609801",
+    "vehicle_type": "Bike",
+    "booking_value": 2914,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR5610688312",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2755,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR3994853879",
+    "vehicle_type": "Auto",
+    "booking_value": 2533,
+    "payment_method": "UPI"
+  },
+  {
+    "booking_id": "CNR3652254403",
+    "vehicle_type": "eBike",
+    "booking_value": 2736,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR7146534390",
+    "vehicle_type": "Auto",
+    "booking_value": 2654,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR4879698455",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2622,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR7855771695",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2787,
+    "payment_method": "Cash"
+  },
+  {
+    "booking_id": "CNR8205151708",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 2559,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR4742862800",
+    "vehicle_type": "eBike",
+    "booking_value": 2660,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR4011812519",
+    "vehicle_type": "Auto",
+    "booking_value": 2985,
+    "payment_method": "null"
+  },
+  {
+    "booking_id": "CNR6875488883",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2912,
+    "payment_method": "Cash"
+  }
+]
