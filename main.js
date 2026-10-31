@@ -44,8 +44,22 @@ fs.access(options.input, fs.constants.F_OK, (err) => {
       }
     }
 
-    res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.end('Параметри успішно розібрано.');
+    // Читання файлу
+    fs.readFile(options.input, 'utf-8', (readErr, data) => {
+      if (readErr) {
+        res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
+        return res.end('Помилка 500: Неможливо прочитати файл.');
+      }
+
+      try {
+        const jsonData = JSON.parse(data);
+        res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
+        res.end('Файл прочитано.');
+      } catch (parseErr) {
+        res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
+        res.end('Помилка 500: Пошкоджений JSON-файл.');
+      }
+    });
   });
 
   server.listen(options.port, options.host, () => {
