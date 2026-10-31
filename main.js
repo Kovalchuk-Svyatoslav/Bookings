@@ -53,8 +53,32 @@ fs.access(options.input, fs.constants.F_OK, (err) => {
 
       try {
         const jsonData = JSON.parse(data);
-        res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
-        res.end('Файл прочитано.');
+        const result = [];
+
+        // Обробка та фільтрація даних
+        for (let i = 0; i < jsonData.length; i++) {
+          const item = jsonData[i];
+          const bookingValue = Number(item.Booking_Value);
+
+          if (minValue !== null && bookingValue <= minValue) {
+            continue;
+          }
+
+          const mappedItem = {
+            booking_id: item.Booking_ID,
+            vehicle_type: item.Vehicle_Type,
+            booking_value: bookingValue
+          };
+
+          if (paymentFlag) {
+            mappedItem.payment_method = item.Payment_Method;
+          }
+          result.push(mappedItem);
+        }
+
+        const jsonResponse = JSON.stringify(result, null, 2);
+        res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
+        res.end(jsonResponse);
       } catch (parseErr) {
         res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
         res.end('Помилка 500: Пошкоджений JSON-файл.');
