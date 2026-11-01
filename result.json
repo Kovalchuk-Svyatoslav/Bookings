@@ -1,278 +1,9147 @@
 [
   {
+    "booking_id": "CNR7153255142",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 444
+  },
+  {
+    "booking_id": "CNR2940424040",
+    "vehicle_type": "Bike",
+    "booking_value": 158
+  },
+  {
+    "booking_id": "CNR2982357879",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 386
+  },
+  {
+    "booking_id": "CNR2395710036",
+    "vehicle_type": "eBike",
+    "booking_value": 384
+  },
+  {
+    "booking_id": "CNR1797421769",
+    "vehicle_type": "Mini",
+    "booking_value": 822
+  },
+  {
+    "booking_id": "CNR8787177882",
+    "vehicle_type": "Mini",
+    "booking_value": 173
+  },
+  {
+    "booking_id": "CNR3612067560",
+    "vehicle_type": "Bike",
+    "booking_value": 140
+  },
+  {
+    "booking_id": "CNR5374902489",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 344
+  },
+  {
+    "booking_id": "CNR5030602354",
+    "vehicle_type": "Mini",
+    "booking_value": 839
+  },
+  {
+    "booking_id": "CNR6328453219",
+    "vehicle_type": "Auto",
+    "booking_value": 893
+  },
+  {
+    "booking_id": "CNR4787583516",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 164
+  },
+  {
+    "booking_id": "CNR7943634301",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 399
+  },
+  {
+    "booking_id": "CNR4524472111",
+    "vehicle_type": "Auto",
+    "booking_value": 330
+  },
+  {
+    "booking_id": "CNR3914552212",
+    "vehicle_type": "Auto",
+    "booking_value": 427
+  },
+  {
+    "booking_id": "CNR8181602032",
+    "vehicle_type": "Bike",
+    "booking_value": 378
+  },
+  {
+    "booking_id": "CNR8090918544",
+    "vehicle_type": "Bike",
+    "booking_value": 343
+  },
+  {
+    "booking_id": "CNR3211335290",
+    "vehicle_type": "Mini",
+    "booking_value": 366
+  },
+  {
+    "booking_id": "CNR3196156650",
+    "vehicle_type": "Bike",
+    "booking_value": 401
+  },
+  {
+    "booking_id": "CNR9975925287",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 343
+  },
+  {
+    "booking_id": "CNR1591113431",
+    "vehicle_type": "eBike",
+    "booking_value": 2014
+  },
+  {
+    "booking_id": "CNR3650331573",
+    "vehicle_type": "eBike",
+    "booking_value": 650
+  },
+  {
+    "booking_id": "CNR6013805089",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 231
+  },
+  {
+    "booking_id": "CNR4306636052",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 909
+  },
+  {
+    "booking_id": "CNR9832070187",
+    "vehicle_type": "Bike",
+    "booking_value": 189
+  },
+  {
+    "booking_id": "CNR5620539253",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 311
+  },
+  {
+    "booking_id": "CNR4443921904",
+    "vehicle_type": "Mini",
+    "booking_value": 286
+  },
+  {
+    "booking_id": "CNR7194303296",
+    "vehicle_type": "Mini",
+    "booking_value": 141
+  },
+  {
+    "booking_id": "CNR6494005067",
+    "vehicle_type": "Auto",
+    "booking_value": 214
+  },
+  {
+    "booking_id": "CNR6805579107",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2183
+  },
+  {
+    "booking_id": "CNR6003663433",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 604
+  },
+  {
+    "booking_id": "CNR2998177390",
+    "vehicle_type": "Auto",
+    "booking_value": 802
+  },
+  {
+    "booking_id": "CNR7979458138",
+    "vehicle_type": "eBike",
+    "booking_value": 1095
+  },
+  {
+    "booking_id": "CNR7286474506",
+    "vehicle_type": "eBike",
+    "booking_value": 120
+  },
+  {
+    "booking_id": "CNR9820692957",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 241
+  },
+  {
+    "booking_id": "CNR4094067439",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 475
+  },
+  {
+    "booking_id": "CNR7142279862",
+    "vehicle_type": "eBike",
+    "booking_value": 461
+  },
+  {
+    "booking_id": "CNR5488574120",
+    "vehicle_type": "Auto",
+    "booking_value": 783
+  },
+  {
+    "booking_id": "CNR8148468821",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 995
+  },
+  {
+    "booking_id": "CNR5176704322",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1102
+  },
+  {
+    "booking_id": "CNR9287248724",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 170
+  },
+  {
+    "booking_id": "CNR7547352327",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 444
+  },
+  {
+    "booking_id": "CNR9660405769",
+    "vehicle_type": "eBike",
+    "booking_value": 1130
+  },
+  {
+    "booking_id": "CNR4251304471",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 876
+  },
+  {
+    "booking_id": "CNR1568684278",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 680
+  },
+  {
+    "booking_id": "CNR2230045814",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 425
+  },
+  {
+    "booking_id": "CNR7871058089",
+    "vehicle_type": "Mini",
+    "booking_value": 989
+  },
+  {
+    "booking_id": "CNR5503358927",
+    "vehicle_type": "Bike",
+    "booking_value": 594
+  },
+  {
+    "booking_id": "CNR2708187615",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 443
+  },
+  {
+    "booking_id": "CNR1625119636",
+    "vehicle_type": "eBike",
+    "booking_value": 721
+  },
+  {
     "booking_id": "CNR9312632867",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2936,
-    "payment_method": "Cash"
+    "booking_value": 2936
+  },
+  {
+    "booking_id": "CNR5274603340",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 747
+  },
+  {
+    "booking_id": "CNR1050003752",
+    "vehicle_type": "Bike",
+    "booking_value": 799
+  },
+  {
+    "booking_id": "CNR3603517873",
+    "vehicle_type": "eBike",
+    "booking_value": 300
+  },
+  {
+    "booking_id": "CNR1557960488",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 162
+  },
+  {
+    "booking_id": "CNR9758857830",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 618
+  },
+  {
+    "booking_id": "CNR8080410192",
+    "vehicle_type": "eBike",
+    "booking_value": 251
+  },
+  {
+    "booking_id": "CNR1648186942",
+    "vehicle_type": "Bike",
+    "booking_value": 543
+  },
+  {
+    "booking_id": "CNR2433490646",
+    "vehicle_type": "Mini",
+    "booking_value": 724
+  },
+  {
+    "booking_id": "CNR7825941026",
+    "vehicle_type": "Mini",
+    "booking_value": 316
+  },
+  {
+    "booking_id": "CNR9148580255",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 138
+  },
+  {
+    "booking_id": "CNR2946309760",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 467
+  },
+  {
+    "booking_id": "CNR3472489570",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 565
+  },
+  {
+    "booking_id": "CNR1768885472",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 276
+  },
+  {
+    "booking_id": "CNR7486448495",
+    "vehicle_type": "Auto",
+    "booking_value": 296
+  },
+  {
+    "booking_id": "CNR2735636504",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1310
+  },
+  {
+    "booking_id": "CNR7533317866",
+    "vehicle_type": "Mini",
+    "booking_value": 771
+  },
+  {
+    "booking_id": "CNR5758479139",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 279
+  },
+  {
+    "booking_id": "CNR8021985469",
+    "vehicle_type": "Mini",
+    "booking_value": 321
+  },
+  {
+    "booking_id": "CNR3800597072",
+    "vehicle_type": "Mini",
+    "booking_value": 457
+  },
+  {
+    "booking_id": "CNR6179425512",
+    "vehicle_type": "Mini",
+    "booking_value": 139
+  },
+  {
+    "booking_id": "CNR7924302885",
+    "vehicle_type": "Auto",
+    "booking_value": 685
+  },
+  {
+    "booking_id": "CNR7181374756",
+    "vehicle_type": "Auto",
+    "booking_value": 150
+  },
+  {
+    "booking_id": "CNR2830899440",
+    "vehicle_type": "Mini",
+    "booking_value": 196
+  },
+  {
+    "booking_id": "CNR7592165192",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 424
+  },
+  {
+    "booking_id": "CNR6077524333",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 827
+  },
+  {
+    "booking_id": "CNR8854206454",
+    "vehicle_type": "eBike",
+    "booking_value": 770
+  },
+  {
+    "booking_id": "CNR6387231274",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 325
+  },
+  {
+    "booking_id": "CNR6215530366",
+    "vehicle_type": "eBike",
+    "booking_value": 986
+  },
+  {
+    "booking_id": "CNR4314026109",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2208
+  },
+  {
+    "booking_id": "CNR9027465661",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1695
+  },
+  {
+    "booking_id": "CNR5003494701",
+    "vehicle_type": "Mini",
+    "booking_value": 305
+  },
+  {
+    "booking_id": "CNR2064658821",
+    "vehicle_type": "Bike",
+    "booking_value": 2271
+  },
+  {
+    "booking_id": "CNR2149029235",
+    "vehicle_type": "Auto",
+    "booking_value": 240
+  },
+  {
+    "booking_id": "CNR9704400677",
+    "vehicle_type": "Mini",
+    "booking_value": 482
+  },
+  {
+    "booking_id": "CNR8836460204",
+    "vehicle_type": "eBike",
+    "booking_value": 536
+  },
+  {
+    "booking_id": "CNR3697318609",
+    "vehicle_type": "Bike",
+    "booking_value": 188
+  },
+  {
+    "booking_id": "CNR6541289543",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 202
+  },
+  {
+    "booking_id": "CNR8369601219",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1609
+  },
+  {
+    "booking_id": "CNR8346388703",
+    "vehicle_type": "Mini",
+    "booking_value": 1821
+  },
+  {
+    "booking_id": "CNR4445082348",
+    "vehicle_type": "Mini",
+    "booking_value": 415
+  },
+  {
+    "booking_id": "CNR5528764313",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2125
+  },
+  {
+    "booking_id": "CNR3967141568",
+    "vehicle_type": "Auto",
+    "booking_value": 758
+  },
+  {
+    "booking_id": "CNR7054352438",
+    "vehicle_type": "Mini",
+    "booking_value": 653
+  },
+  {
+    "booking_id": "CNR1640228587",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 704
+  },
+  {
+    "booking_id": "CNR6684033796",
+    "vehicle_type": "Auto",
+    "booking_value": 385
+  },
+  {
+    "booking_id": "CNR4158584922",
+    "vehicle_type": "Auto",
+    "booking_value": 934
+  },
+  {
+    "booking_id": "CNR5133236273",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 615
+  },
+  {
+    "booking_id": "CNR5661490576",
+    "vehicle_type": "Bike",
+    "booking_value": 2202
+  },
+  {
+    "booking_id": "CNR2304446757",
+    "vehicle_type": "eBike",
+    "booking_value": 205
+  },
+  {
+    "booking_id": "CNR3780555542",
+    "vehicle_type": "Mini",
+    "booking_value": 513
+  },
+  {
+    "booking_id": "CNR1559782157",
+    "vehicle_type": "Auto",
+    "booking_value": 247
+  },
+  {
+    "booking_id": "CNR7623690602",
+    "vehicle_type": "Bike",
+    "booking_value": 558
+  },
+  {
+    "booking_id": "CNR2098165198",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 291
+  },
+  {
+    "booking_id": "CNR5502012579",
+    "vehicle_type": "Mini",
+    "booking_value": 925
+  },
+  {
+    "booking_id": "CNR4698965967",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 121
+  },
+  {
+    "booking_id": "CNR8566688320",
+    "vehicle_type": "Bike",
+    "booking_value": 404
+  },
+  {
+    "booking_id": "CNR8014852782",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 223
   },
   {
     "booking_id": "CNR6012739836",
     "vehicle_type": "Prime Sedan",
-    "booking_value": 2989,
-    "payment_method": "null"
+    "booking_value": 2989
+  },
+  {
+    "booking_id": "CNR3404012927",
+    "vehicle_type": "Mini",
+    "booking_value": 728
+  },
+  {
+    "booking_id": "CNR9282027845",
+    "vehicle_type": "Bike",
+    "booking_value": 2416
+  },
+  {
+    "booking_id": "CNR5508853708",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 371
+  },
+  {
+    "booking_id": "CNR4241139229",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 258
+  },
+  {
+    "booking_id": "CNR8306274838",
+    "vehicle_type": "Bike",
+    "booking_value": 170
+  },
+  {
+    "booking_id": "CNR1903850514",
+    "vehicle_type": "eBike",
+    "booking_value": 151
+  },
+  {
+    "booking_id": "CNR1852948877",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 425
+  },
+  {
+    "booking_id": "CNR5744401218",
+    "vehicle_type": "Bike",
+    "booking_value": 220
+  },
+  {
+    "booking_id": "CNR7221640450",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 472
+  },
+  {
+    "booking_id": "CNR8395803905",
+    "vehicle_type": "eBike",
+    "booking_value": 616
+  },
+  {
+    "booking_id": "CNR3750351374",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 473
+  },
+  {
+    "booking_id": "CNR2869164142",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 259
+  },
+  {
+    "booking_id": "CNR8303547069",
+    "vehicle_type": "Mini",
+    "booking_value": 310
+  },
+  {
+    "booking_id": "CNR7368110421",
+    "vehicle_type": "Mini",
+    "booking_value": 200
+  },
+  {
+    "booking_id": "CNR7500310853",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 471
+  },
+  {
+    "booking_id": "CNR8925319975",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 442
+  },
+  {
+    "booking_id": "CNR9261561390",
+    "vehicle_type": "Auto",
+    "booking_value": 228
+  },
+  {
+    "booking_id": "CNR3165383119",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 232
+  },
+  {
+    "booking_id": "CNR7006798592",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 344
   },
   {
     "booking_id": "CNR5613886410",
     "vehicle_type": "Auto",
-    "booking_value": 2604,
-    "payment_method": "UPI"
+    "booking_value": 2604
+  },
+  {
+    "booking_id": "CNR5841521780",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 274
+  },
+  {
+    "booking_id": "CNR1281921513",
+    "vehicle_type": "Mini",
+    "booking_value": 895
+  },
+  {
+    "booking_id": "CNR2959980296",
+    "vehicle_type": "Bike",
+    "booking_value": 279
+  },
+  {
+    "booking_id": "CNR6765124275",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1946
+  },
+  {
+    "booking_id": "CNR9762994658",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1024
+  },
+  {
+    "booking_id": "CNR8072285783",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 294
+  },
+  {
+    "booking_id": "CNR8116331340",
+    "vehicle_type": "Auto",
+    "booking_value": 252
   },
   {
     "booking_id": "CNR3491700602",
     "vehicle_type": "Mini",
-    "booking_value": 2542,
-    "payment_method": "UPI"
+    "booking_value": 2542
+  },
+  {
+    "booking_id": "CNR2166456022",
+    "vehicle_type": "Mini",
+    "booking_value": 1821
+  },
+  {
+    "booking_id": "CNR2177201692",
+    "vehicle_type": "Mini",
+    "booking_value": 200
+  },
+  {
+    "booking_id": "CNR5755482161",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 152
+  },
+  {
+    "booking_id": "CNR4484571820",
+    "vehicle_type": "Auto",
+    "booking_value": 2388
+  },
+  {
+    "booking_id": "CNR7377461832",
+    "vehicle_type": "eBike",
+    "booking_value": 783
+  },
+  {
+    "booking_id": "CNR2363111317",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 208
+  },
+  {
+    "booking_id": "CNR2976802436",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1181
+  },
+  {
+    "booking_id": "CNR8474873609",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 843
+  },
+  {
+    "booking_id": "CNR1945536909",
+    "vehicle_type": "Auto",
+    "booking_value": 441
+  },
+  {
+    "booking_id": "CNR8097291227",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 332
+  },
+  {
+    "booking_id": "CNR1433815646",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 832
+  },
+  {
+    "booking_id": "CNR5876056264",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1361
+  },
+  {
+    "booking_id": "CNR2943788515",
+    "vehicle_type": "Bike",
+    "booking_value": 415
+  },
+  {
+    "booking_id": "CNR5599931622",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 747
+  },
+  {
+    "booking_id": "CNR6776927575",
+    "vehicle_type": "Bike",
+    "booking_value": 129
+  },
+  {
+    "booking_id": "CNR4880622143",
+    "vehicle_type": "eBike",
+    "booking_value": 296
+  },
+  {
+    "booking_id": "CNR2841702950",
+    "vehicle_type": "Auto",
+    "booking_value": 337
+  },
+  {
+    "booking_id": "CNR2747846957",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 896
+  },
+  {
+    "booking_id": "CNR4795488474",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 151
+  },
+  {
+    "booking_id": "CNR6662649739",
+    "vehicle_type": "Auto",
+    "booking_value": 940
+  },
+  {
+    "booking_id": "CNR2524442918",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 729
+  },
+  {
+    "booking_id": "CNR4977956798",
+    "vehicle_type": "Auto",
+    "booking_value": 128
+  },
+  {
+    "booking_id": "CNR2002215420",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 274
+  },
+  {
+    "booking_id": "CNR9590311980",
+    "vehicle_type": "Auto",
+    "booking_value": 352
+  },
+  {
+    "booking_id": "CNR3124565731",
+    "vehicle_type": "Auto",
+    "booking_value": 238
+  },
+  {
+    "booking_id": "CNR6090870401",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 477
+  },
+  {
+    "booking_id": "CNR9405757355",
+    "vehicle_type": "Auto",
+    "booking_value": 186
+  },
+  {
+    "booking_id": "CNR7078608984",
+    "vehicle_type": "eBike",
+    "booking_value": 117
+  },
+  {
+    "booking_id": "CNR4166475803",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 193
+  },
+  {
+    "booking_id": "CNR3641224150",
+    "vehicle_type": "Mini",
+    "booking_value": 395
+  },
+  {
+    "booking_id": "CNR7307808711",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 857
+  },
+  {
+    "booking_id": "CNR9207534980",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 819
+  },
+  {
+    "booking_id": "CNR8478607960",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 484
+  },
+  {
+    "booking_id": "CNR6867991693",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 648
+  },
+  {
+    "booking_id": "CNR4134417165",
+    "vehicle_type": "Bike",
+    "booking_value": 153
+  },
+  {
+    "booking_id": "CNR6026842144",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 232
+  },
+  {
+    "booking_id": "CNR1373400641",
+    "vehicle_type": "Mini",
+    "booking_value": 478
+  },
+  {
+    "booking_id": "CNR7756361076",
+    "vehicle_type": "Auto",
+    "booking_value": 850
+  },
+  {
+    "booking_id": "CNR1058833099",
+    "vehicle_type": "Bike",
+    "booking_value": 673
+  },
+  {
+    "booking_id": "CNR8150133799",
+    "vehicle_type": "eBike",
+    "booking_value": 315
+  },
+  {
+    "booking_id": "CNR3136784868",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1033
+  },
+  {
+    "booking_id": "CNR2919641369",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 825
+  },
+  {
+    "booking_id": "CNR4311649934",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 213
+  },
+  {
+    "booking_id": "CNR8258871692",
+    "vehicle_type": "Auto",
+    "booking_value": 125
+  },
+  {
+    "booking_id": "CNR7844432925",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 362
+  },
+  {
+    "booking_id": "CNR3149119791",
+    "vehicle_type": "Mini",
+    "booking_value": 471
+  },
+  {
+    "booking_id": "CNR6545513695",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 163
+  },
+  {
+    "booking_id": "CNR6427297269",
+    "vehicle_type": "Mini",
+    "booking_value": 142
+  },
+  {
+    "booking_id": "CNR1684336791",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 451
+  },
+  {
+    "booking_id": "CNR8107628541",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 358
+  },
+  {
+    "booking_id": "CNR8516392891",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 365
+  },
+  {
+    "booking_id": "CNR5043217856",
+    "vehicle_type": "Auto",
+    "booking_value": 752
+  },
+  {
+    "booking_id": "CNR7829903493",
+    "vehicle_type": "eBike",
+    "booking_value": 531
+  },
+  {
+    "booking_id": "CNR4290294193",
+    "vehicle_type": "Auto",
+    "booking_value": 111
+  },
+  {
+    "booking_id": "CNR4330381266",
+    "vehicle_type": "Auto",
+    "booking_value": 216
+  },
+  {
+    "booking_id": "CNR6146948780",
+    "vehicle_type": "eBike",
+    "booking_value": 147
+  },
+  {
+    "booking_id": "CNR4211386643",
+    "vehicle_type": "eBike",
+    "booking_value": 433
+  },
+  {
+    "booking_id": "CNR5828080027",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 664
+  },
+  {
+    "booking_id": "CNR5043719137",
+    "vehicle_type": "Mini",
+    "booking_value": 159
+  },
+  {
+    "booking_id": "CNR2332223815",
+    "vehicle_type": "Mini",
+    "booking_value": 556
+  },
+  {
+    "booking_id": "CNR5863244684",
+    "vehicle_type": "eBike",
+    "booking_value": 184
+  },
+  {
+    "booking_id": "CNR2051641681",
+    "vehicle_type": "Auto",
+    "booking_value": 295
+  },
+  {
+    "booking_id": "CNR6963252366",
+    "vehicle_type": "Bike",
+    "booking_value": 794
+  },
+  {
+    "booking_id": "CNR6561084640",
+    "vehicle_type": "Bike",
+    "booking_value": 330
+  },
+  {
+    "booking_id": "CNR8606343558",
+    "vehicle_type": "Bike",
+    "booking_value": 187
+  },
+  {
+    "booking_id": "CNR6129451090",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 487
+  },
+  {
+    "booking_id": "CNR8991153488",
+    "vehicle_type": "eBike",
+    "booking_value": 426
+  },
+  {
+    "booking_id": "CNR3555127202",
+    "vehicle_type": "Auto",
+    "booking_value": 229
+  },
+  {
+    "booking_id": "CNR2478670622",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 445
+  },
+  {
+    "booking_id": "CNR2637746164",
+    "vehicle_type": "Auto",
+    "booking_value": 134
+  },
+  {
+    "booking_id": "CNR1098685369",
+    "vehicle_type": "Auto",
+    "booking_value": 119
+  },
+  {
+    "booking_id": "CNR3013333422",
+    "vehicle_type": "eBike",
+    "booking_value": 214
+  },
+  {
+    "booking_id": "CNR6731320458",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 113
+  },
+  {
+    "booking_id": "CNR1523677800",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 362
+  },
+  {
+    "booking_id": "CNR5683291566",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 545
+  },
+  {
+    "booking_id": "CNR9411398805",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 498
+  },
+  {
+    "booking_id": "CNR7845975089",
+    "vehicle_type": "Bike",
+    "booking_value": 117
+  },
+  {
+    "booking_id": "CNR3855977560",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 230
+  },
+  {
+    "booking_id": "CNR6774178719",
+    "vehicle_type": "eBike",
+    "booking_value": 304
+  },
+  {
+    "booking_id": "CNR4046969463",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 318
+  },
+  {
+    "booking_id": "CNR4475747544",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 130
+  },
+  {
+    "booking_id": "CNR5165798104",
+    "vehicle_type": "Bike",
+    "booking_value": 419
+  },
+  {
+    "booking_id": "CNR4392965412",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 399
   },
   {
     "booking_id": "CNR1167401662",
     "vehicle_type": "Mini",
-    "booking_value": 2900,
-    "payment_method": "null"
+    "booking_value": 2900
+  },
+  {
+    "booking_id": "CNR2822610940",
+    "vehicle_type": "Bike",
+    "booking_value": 121
+  },
+  {
+    "booking_id": "CNR6691577601",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 107
+  },
+  {
+    "booking_id": "CNR9445908039",
+    "vehicle_type": "Mini",
+    "booking_value": 424
+  },
+  {
+    "booking_id": "CNR3423157511",
+    "vehicle_type": "Bike",
+    "booking_value": 307
+  },
+  {
+    "booking_id": "CNR1324239592",
+    "vehicle_type": "eBike",
+    "booking_value": 583
+  },
+  {
+    "booking_id": "CNR8086928686",
+    "vehicle_type": "Mini",
+    "booking_value": 325
+  },
+  {
+    "booking_id": "CNR3412387949",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 216
+  },
+  {
+    "booking_id": "CNR9728294566",
+    "vehicle_type": "Mini",
+    "booking_value": 337
+  },
+  {
+    "booking_id": "CNR3797886537",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 373
+  },
+  {
+    "booking_id": "CNR2918335042",
+    "vehicle_type": "Bike",
+    "booking_value": 121
+  },
+  {
+    "booking_id": "CNR7683288053",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 584
+  },
+  {
+    "booking_id": "CNR7308621555",
+    "vehicle_type": "Mini",
+    "booking_value": 372
+  },
+  {
+    "booking_id": "CNR6893200456",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 482
+  },
+  {
+    "booking_id": "CNR8506315424",
+    "vehicle_type": "Mini",
+    "booking_value": 169
+  },
+  {
+    "booking_id": "CNR6289456005",
+    "vehicle_type": "Bike",
+    "booking_value": 655
+  },
+  {
+    "booking_id": "CNR3652386033",
+    "vehicle_type": "Bike",
+    "booking_value": 398
+  },
+  {
+    "booking_id": "CNR7500140086",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 198
+  },
+  {
+    "booking_id": "CNR9206491878",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 482
+  },
+  {
+    "booking_id": "CNR1508971604",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 305
+  },
+  {
+    "booking_id": "CNR4004898445",
+    "vehicle_type": "Mini",
+    "booking_value": 294
+  },
+  {
+    "booking_id": "CNR8826275068",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 161
+  },
+  {
+    "booking_id": "CNR9942066704",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 404
+  },
+  {
+    "booking_id": "CNR2361275900",
+    "vehicle_type": "Auto",
+    "booking_value": 169
+  },
+  {
+    "booking_id": "CNR4419040819",
+    "vehicle_type": "Bike",
+    "booking_value": 501
+  },
+  {
+    "booking_id": "CNR1911058132",
+    "vehicle_type": "Mini",
+    "booking_value": 101
+  },
+  {
+    "booking_id": "CNR8926984331",
+    "vehicle_type": "Auto",
+    "booking_value": 192
+  },
+  {
+    "booking_id": "CNR2191224963",
+    "vehicle_type": "Mini",
+    "booking_value": 393
+  },
+  {
+    "booking_id": "CNR6024993831",
+    "vehicle_type": "eBike",
+    "booking_value": 414
+  },
+  {
+    "booking_id": "CNR3704418934",
+    "vehicle_type": "Bike",
+    "booking_value": 1816
+  },
+  {
+    "booking_id": "CNR6259704301",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 366
+  },
+  {
+    "booking_id": "CNR4588889454",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 417
   },
   {
     "booking_id": "CNR9102117353",
     "vehicle_type": "Prime Plus",
-    "booking_value": 2884,
-    "payment_method": "UPI"
+    "booking_value": 2884
+  },
+  {
+    "booking_id": "CNR9855871509",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 371
+  },
+  {
+    "booking_id": "CNR6491202733",
+    "vehicle_type": "Mini",
+    "booking_value": 175
+  },
+  {
+    "booking_id": "CNR1767970743",
+    "vehicle_type": "Bike",
+    "booking_value": 494
+  },
+  {
+    "booking_id": "CNR6136026561",
+    "vehicle_type": "eBike",
+    "booking_value": 441
+  },
+  {
+    "booking_id": "CNR7642653871",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 471
+  },
+  {
+    "booking_id": "CNR8369636566",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 389
+  },
+  {
+    "booking_id": "CNR8073437118",
+    "vehicle_type": "eBike",
+    "booking_value": 202
+  },
+  {
+    "booking_id": "CNR5116585243",
+    "vehicle_type": "Auto",
+    "booking_value": 253
+  },
+  {
+    "booking_id": "CNR9699923253",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 882
+  },
+  {
+    "booking_id": "CNR1201589640",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 176
+  },
+  {
+    "booking_id": "CNR1689403754",
+    "vehicle_type": "Mini",
+    "booking_value": 417
+  },
+  {
+    "booking_id": "CNR1501229480",
+    "vehicle_type": "Mini",
+    "booking_value": 130
+  },
+  {
+    "booking_id": "CNR8602417067",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 235
+  },
+  {
+    "booking_id": "CNR5180944150",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 325
+  },
+  {
+    "booking_id": "CNR5569548787",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 290
+  },
+  {
+    "booking_id": "CNR2826030097",
+    "vehicle_type": "Bike",
+    "booking_value": 131
+  },
+  {
+    "booking_id": "CNR4887495881",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 148
+  },
+  {
+    "booking_id": "CNR4946474476",
+    "vehicle_type": "Bike",
+    "booking_value": 463
+  },
+  {
+    "booking_id": "CNR5414099759",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 339
+  },
+  {
+    "booking_id": "CNR2568139914",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 314
+  },
+  {
+    "booking_id": "CNR8892975500",
+    "vehicle_type": "Bike",
+    "booking_value": 512
+  },
+  {
+    "booking_id": "CNR7552726236",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 443
+  },
+  {
+    "booking_id": "CNR1200026621",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1467
+  },
+  {
+    "booking_id": "CNR4187447284",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 353
+  },
+  {
+    "booking_id": "CNR3659491874",
+    "vehicle_type": "Auto",
+    "booking_value": 444
+  },
+  {
+    "booking_id": "CNR3623533429",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 476
+  },
+  {
+    "booking_id": "CNR3824632577",
+    "vehicle_type": "Bike",
+    "booking_value": 142
+  },
+  {
+    "booking_id": "CNR2817233926",
+    "vehicle_type": "eBike",
+    "booking_value": 471
+  },
+  {
+    "booking_id": "CNR2091398962",
+    "vehicle_type": "eBike",
+    "booking_value": 382
+  },
+  {
+    "booking_id": "CNR5220085842",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 401
+  },
+  {
+    "booking_id": "CNR9795770576",
+    "vehicle_type": "Auto",
+    "booking_value": 148
+  },
+  {
+    "booking_id": "CNR4627809411",
+    "vehicle_type": "Auto",
+    "booking_value": 204
+  },
+  {
+    "booking_id": "CNR4003939102",
+    "vehicle_type": "Mini",
+    "booking_value": 666
+  },
+  {
+    "booking_id": "CNR1308261538",
+    "vehicle_type": "eBike",
+    "booking_value": 425
+  },
+  {
+    "booking_id": "CNR1556710084",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 172
+  },
+  {
+    "booking_id": "CNR4639016703",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 398
+  },
+  {
+    "booking_id": "CNR3136156514",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 741
+  },
+  {
+    "booking_id": "CNR6635680436",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 446
+  },
+  {
+    "booking_id": "CNR6522259243",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 315
+  },
+  {
+    "booking_id": "CNR9257492650",
+    "vehicle_type": "Bike",
+    "booking_value": 470
+  },
+  {
+    "booking_id": "CNR9054081319",
+    "vehicle_type": "Auto",
+    "booking_value": 106
+  },
+  {
+    "booking_id": "CNR3186546295",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1468
+  },
+  {
+    "booking_id": "CNR5237090288",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 408
+  },
+  {
+    "booking_id": "CNR9526078867",
+    "vehicle_type": "eBike",
+    "booking_value": 1805
   },
   {
     "booking_id": "CNR2055496400",
     "vehicle_type": "Auto",
-    "booking_value": 2925,
-    "payment_method": "null"
+    "booking_value": 2925
+  },
+  {
+    "booking_id": "CNR1352748737",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1048
+  },
+  {
+    "booking_id": "CNR8505998754",
+    "vehicle_type": "Mini",
+    "booking_value": 360
+  },
+  {
+    "booking_id": "CNR3848737052",
+    "vehicle_type": "Mini",
+    "booking_value": 341
+  },
+  {
+    "booking_id": "CNR3022399674",
+    "vehicle_type": "eBike",
+    "booking_value": 310
+  },
+  {
+    "booking_id": "CNR4201304521",
+    "vehicle_type": "eBike",
+    "booking_value": 1289
+  },
+  {
+    "booking_id": "CNR9511092010",
+    "vehicle_type": "Mini",
+    "booking_value": 1540
+  },
+  {
+    "booking_id": "CNR8110334234",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 745
+  },
+  {
+    "booking_id": "CNR1820951934",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 459
+  },
+  {
+    "booking_id": "CNR3295449162",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 313
+  },
+  {
+    "booking_id": "CNR8642502474",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 130
+  },
+  {
+    "booking_id": "CNR9405769135",
+    "vehicle_type": "eBike",
+    "booking_value": 517
+  },
+  {
+    "booking_id": "CNR2179333461",
+    "vehicle_type": "Bike",
+    "booking_value": 332
+  },
+  {
+    "booking_id": "CNR7446430391",
+    "vehicle_type": "eBike",
+    "booking_value": 496
+  },
+  {
+    "booking_id": "CNR2050487810",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 145
+  },
+  {
+    "booking_id": "CNR9970948492",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 229
+  },
+  {
+    "booking_id": "CNR3011053515",
+    "vehicle_type": "Bike",
+    "booking_value": 470
+  },
+  {
+    "booking_id": "CNR4591666574",
+    "vehicle_type": "eBike",
+    "booking_value": 278
+  },
+  {
+    "booking_id": "CNR1610148184",
+    "vehicle_type": "Mini",
+    "booking_value": 790
+  },
+  {
+    "booking_id": "CNR4526799105",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 941
   },
   {
     "booking_id": "CNR7697944209",
     "vehicle_type": "Auto",
-    "booking_value": 2801,
-    "payment_method": "null"
+    "booking_value": 2801
+  },
+  {
+    "booking_id": "CNR7154043084",
+    "vehicle_type": "Auto",
+    "booking_value": 525
+  },
+  {
+    "booking_id": "CNR9283642129",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 433
+  },
+  {
+    "booking_id": "CNR4676896526",
+    "vehicle_type": "Auto",
+    "booking_value": 376
+  },
+  {
+    "booking_id": "CNR1615053684",
+    "vehicle_type": "Mini",
+    "booking_value": 346
+  },
+  {
+    "booking_id": "CNR7734380067",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 260
+  },
+  {
+    "booking_id": "CNR4851775364",
+    "vehicle_type": "Bike",
+    "booking_value": 213
+  },
+  {
+    "booking_id": "CNR7896256729",
+    "vehicle_type": "Mini",
+    "booking_value": 286
+  },
+  {
+    "booking_id": "CNR7042244136",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 156
+  },
+  {
+    "booking_id": "CNR7908519469",
+    "vehicle_type": "eBike",
+    "booking_value": 757
+  },
+  {
+    "booking_id": "CNR1121889731",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 390
+  },
+  {
+    "booking_id": "CNR3193710797",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 976
+  },
+  {
+    "booking_id": "CNR9772059065",
+    "vehicle_type": "Bike",
+    "booking_value": 683
+  },
+  {
+    "booking_id": "CNR6820098709",
+    "vehicle_type": "eBike",
+    "booking_value": 329
+  },
+  {
+    "booking_id": "CNR9590135968",
+    "vehicle_type": "eBike",
+    "booking_value": 999
+  },
+  {
+    "booking_id": "CNR4053893416",
+    "vehicle_type": "Auto",
+    "booking_value": 283
+  },
+  {
+    "booking_id": "CNR5706980210",
+    "vehicle_type": "eBike",
+    "booking_value": 463
+  },
+  {
+    "booking_id": "CNR8545338624",
+    "vehicle_type": "Auto",
+    "booking_value": 353
+  },
+  {
+    "booking_id": "CNR6792235623",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 495
+  },
+  {
+    "booking_id": "CNR3347159067",
+    "vehicle_type": "Auto",
+    "booking_value": 292
+  },
+  {
+    "booking_id": "CNR2200769825",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 448
+  },
+  {
+    "booking_id": "CNR8037382031",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 103
+  },
+  {
+    "booking_id": "CNR8476582596",
+    "vehicle_type": "Auto",
+    "booking_value": 186
+  },
+  {
+    "booking_id": "CNR7073850950",
+    "vehicle_type": "Auto",
+    "booking_value": 110
+  },
+  {
+    "booking_id": "CNR6613464835",
+    "vehicle_type": "Mini",
+    "booking_value": 173
+  },
+  {
+    "booking_id": "CNR7956960667",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 512
+  },
+  {
+    "booking_id": "CNR3469722999",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2005
+  },
+  {
+    "booking_id": "CNR9952584604",
+    "vehicle_type": "Bike",
+    "booking_value": 238
+  },
+  {
+    "booking_id": "CNR5433575259",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1921
+  },
+  {
+    "booking_id": "CNR3797151024",
+    "vehicle_type": "Mini",
+    "booking_value": 296
+  },
+  {
+    "booking_id": "CNR1888228418",
+    "vehicle_type": "eBike",
+    "booking_value": 499
+  },
+  {
+    "booking_id": "CNR6094620721",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 525
+  },
+  {
+    "booking_id": "CNR2029679396",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 308
+  },
+  {
+    "booking_id": "CNR5108136862",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 118
+  },
+  {
+    "booking_id": "CNR9998375791",
+    "vehicle_type": "Mini",
+    "booking_value": 164
+  },
+  {
+    "booking_id": "CNR7197746515",
+    "vehicle_type": "Mini",
+    "booking_value": 228
+  },
+  {
+    "booking_id": "CNR3914143185",
+    "vehicle_type": "Bike",
+    "booking_value": 326
+  },
+  {
+    "booking_id": "CNR4970390019",
+    "vehicle_type": "Bike",
+    "booking_value": 849
+  },
+  {
+    "booking_id": "CNR4643101961",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 678
+  },
+  {
+    "booking_id": "CNR9462510170",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 431
+  },
+  {
+    "booking_id": "CNR3791458762",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 235
+  },
+  {
+    "booking_id": "CNR6755458210",
+    "vehicle_type": "Mini",
+    "booking_value": 223
+  },
+  {
+    "booking_id": "CNR6729349884",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 445
+  },
+  {
+    "booking_id": "CNR3435305950",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 601
+  },
+  {
+    "booking_id": "CNR2586365783",
+    "vehicle_type": "eBike",
+    "booking_value": 198
+  },
+  {
+    "booking_id": "CNR3475649716",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 358
+  },
+  {
+    "booking_id": "CNR1463816868",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 492
+  },
+  {
+    "booking_id": "CNR1412682969",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 280
+  },
+  {
+    "booking_id": "CNR5341551432",
+    "vehicle_type": "Mini",
+    "booking_value": 233
+  },
+  {
+    "booking_id": "CNR5793610952",
+    "vehicle_type": "Bike",
+    "booking_value": 984
+  },
+  {
+    "booking_id": "CNR1072231824",
+    "vehicle_type": "Auto",
+    "booking_value": 100
+  },
+  {
+    "booking_id": "CNR1799581315",
+    "vehicle_type": "Mini",
+    "booking_value": 1899
+  },
+  {
+    "booking_id": "CNR9707279332",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 833
+  },
+  {
+    "booking_id": "CNR2270293390",
+    "vehicle_type": "eBike",
+    "booking_value": 435
+  },
+  {
+    "booking_id": "CNR3950192876",
+    "vehicle_type": "Mini",
+    "booking_value": 1703
+  },
+  {
+    "booking_id": "CNR9406709395",
+    "vehicle_type": "Auto",
+    "booking_value": 484
+  },
+  {
+    "booking_id": "CNR8975176661",
+    "vehicle_type": "Auto",
+    "booking_value": 680
+  },
+  {
+    "booking_id": "CNR5071594520",
+    "vehicle_type": "Bike",
+    "booking_value": 229
+  },
+  {
+    "booking_id": "CNR2377184626",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 609
+  },
+  {
+    "booking_id": "CNR3575066041",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 181
+  },
+  {
+    "booking_id": "CNR2930589148",
+    "vehicle_type": "eBike",
+    "booking_value": 717
+  },
+  {
+    "booking_id": "CNR7831208502",
+    "vehicle_type": "Auto",
+    "booking_value": 262
+  },
+  {
+    "booking_id": "CNR8629694130",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 158
+  },
+  {
+    "booking_id": "CNR8827885570",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 231
+  },
+  {
+    "booking_id": "CNR1502301342",
+    "vehicle_type": "Bike",
+    "booking_value": 246
+  },
+  {
+    "booking_id": "CNR1372123891",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 228
+  },
+  {
+    "booking_id": "CNR3907697108",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 427
+  },
+  {
+    "booking_id": "CNR2390405629",
+    "vehicle_type": "Mini",
+    "booking_value": 305
+  },
+  {
+    "booking_id": "CNR5914410116",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 270
+  },
+  {
+    "booking_id": "CNR9545114159",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1501
+  },
+  {
+    "booking_id": "CNR4224138624",
+    "vehicle_type": "eBike",
+    "booking_value": 489
+  },
+  {
+    "booking_id": "CNR5217934339",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 791
+  },
+  {
+    "booking_id": "CNR6744298420",
+    "vehicle_type": "Auto",
+    "booking_value": 400
+  },
+  {
+    "booking_id": "CNR7537935962",
+    "vehicle_type": "eBike",
+    "booking_value": 460
+  },
+  {
+    "booking_id": "CNR6035356524",
+    "vehicle_type": "Auto",
+    "booking_value": 354
+  },
+  {
+    "booking_id": "CNR4079474864",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2047
+  },
+  {
+    "booking_id": "CNR4597527178",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 418
   },
   {
     "booking_id": "CNR1983010766",
     "vehicle_type": "Prime Plus",
-    "booking_value": 2655,
-    "payment_method": "UPI"
+    "booking_value": 2655
+  },
+  {
+    "booking_id": "CNR4517742155",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 364
   },
   {
     "booking_id": "CNR4679441912",
     "vehicle_type": "Bike",
-    "booking_value": 2655,
-    "payment_method": "Cash"
+    "booking_value": 2655
+  },
+  {
+    "booking_id": "CNR1076402213",
+    "vehicle_type": "Mini",
+    "booking_value": 828
+  },
+  {
+    "booking_id": "CNR6208623380",
+    "vehicle_type": "eBike",
+    "booking_value": 276
   },
   {
     "booking_id": "CNR3629707818",
     "vehicle_type": "eBike",
-    "booking_value": 2712,
-    "payment_method": "null"
+    "booking_value": 2712
+  },
+  {
+    "booking_id": "CNR5856350738",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 379
+  },
+  {
+    "booking_id": "CNR2780804227",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 316
+  },
+  {
+    "booking_id": "CNR7556753006",
+    "vehicle_type": "Mini",
+    "booking_value": 303
+  },
+  {
+    "booking_id": "CNR2722435581",
+    "vehicle_type": "Mini",
+    "booking_value": 323
+  },
+  {
+    "booking_id": "CNR9290227906",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 840
+  },
+  {
+    "booking_id": "CNR1347489072",
+    "vehicle_type": "eBike",
+    "booking_value": 676
+  },
+  {
+    "booking_id": "CNR7720291436",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 387
+  },
+  {
+    "booking_id": "CNR6838162057",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 349
+  },
+  {
+    "booking_id": "CNR6166016638",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 743
+  },
+  {
+    "booking_id": "CNR8406580820",
+    "vehicle_type": "Auto",
+    "booking_value": 173
+  },
+  {
+    "booking_id": "CNR5947910660",
+    "vehicle_type": "Auto",
+    "booking_value": 105
+  },
+  {
+    "booking_id": "CNR8113882660",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 552
+  },
+  {
+    "booking_id": "CNR3789535898",
+    "vehicle_type": "Mini",
+    "booking_value": 313
+  },
+  {
+    "booking_id": "CNR9181242940",
+    "vehicle_type": "Mini",
+    "booking_value": 424
+  },
+  {
+    "booking_id": "CNR6438361240",
+    "vehicle_type": "Auto",
+    "booking_value": 493
+  },
+  {
+    "booking_id": "CNR8478583704",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 394
   },
   {
     "booking_id": "CNR5495479048",
     "vehicle_type": "Auto",
-    "booking_value": 2890,
-    "payment_method": "Cash"
+    "booking_value": 2890
+  },
+  {
+    "booking_id": "CNR1747667235",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 135
+  },
+  {
+    "booking_id": "CNR8742059228",
+    "vehicle_type": "eBike",
+    "booking_value": 179
+  },
+  {
+    "booking_id": "CNR2249500651",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 280
+  },
+  {
+    "booking_id": "CNR3015771885",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 354
+  },
+  {
+    "booking_id": "CNR9742204042",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 439
+  },
+  {
+    "booking_id": "CNR5414088243",
+    "vehicle_type": "Auto",
+    "booking_value": 645
+  },
+  {
+    "booking_id": "CNR5897488662",
+    "vehicle_type": "Auto",
+    "booking_value": 264
+  },
+  {
+    "booking_id": "CNR8097977794",
+    "vehicle_type": "Auto",
+    "booking_value": 445
+  },
+  {
+    "booking_id": "CNR7665734704",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 399
+  },
+  {
+    "booking_id": "CNR3295803854",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 496
+  },
+  {
+    "booking_id": "CNR1857015366",
+    "vehicle_type": "Auto",
+    "booking_value": 872
+  },
+  {
+    "booking_id": "CNR6533526552",
+    "vehicle_type": "Auto",
+    "booking_value": 346
+  },
+  {
+    "booking_id": "CNR4196099018",
+    "vehicle_type": "Auto",
+    "booking_value": 387
+  },
+  {
+    "booking_id": "CNR6151870263",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 247
+  },
+  {
+    "booking_id": "CNR4877674130",
+    "vehicle_type": "Auto",
+    "booking_value": 767
+  },
+  {
+    "booking_id": "CNR3535977567",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 203
+  },
+  {
+    "booking_id": "CNR9380992083",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 658
+  },
+  {
+    "booking_id": "CNR2409982110",
+    "vehicle_type": "Auto",
+    "booking_value": 366
+  },
+  {
+    "booking_id": "CNR1744423480",
+    "vehicle_type": "Bike",
+    "booking_value": 229
+  },
+  {
+    "booking_id": "CNR8089487405",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 319
+  },
+  {
+    "booking_id": "CNR9791595498",
+    "vehicle_type": "Mini",
+    "booking_value": 415
+  },
+  {
+    "booking_id": "CNR3216137549",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 775
+  },
+  {
+    "booking_id": "CNR7433975344",
+    "vehicle_type": "Auto",
+    "booking_value": 396
+  },
+  {
+    "booking_id": "CNR2752149819",
+    "vehicle_type": "Mini",
+    "booking_value": 411
+  },
+  {
+    "booking_id": "CNR7450856558",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 168
+  },
+  {
+    "booking_id": "CNR7687168562",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 499
+  },
+  {
+    "booking_id": "CNR2616039565",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 342
+  },
+  {
+    "booking_id": "CNR9013990430",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 460
+  },
+  {
+    "booking_id": "CNR6403693064",
+    "vehicle_type": "Auto",
+    "booking_value": 812
+  },
+  {
+    "booking_id": "CNR7512638761",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 651
+  },
+  {
+    "booking_id": "CNR9577062720",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 217
+  },
+  {
+    "booking_id": "CNR3021914528",
+    "vehicle_type": "eBike",
+    "booking_value": 252
+  },
+  {
+    "booking_id": "CNR9495436958",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 790
+  },
+  {
+    "booking_id": "CNR6179732934",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 285
   },
   {
     "booking_id": "CNR1525361077",
     "vehicle_type": "Prime Sedan",
-    "booking_value": 2509,
-    "payment_method": "UPI"
+    "booking_value": 2509
+  },
+  {
+    "booking_id": "CNR1647637548",
+    "vehicle_type": "Mini",
+    "booking_value": 615
+  },
+  {
+    "booking_id": "CNR4195153311",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 237
+  },
+  {
+    "booking_id": "CNR4827484325",
+    "vehicle_type": "Bike",
+    "booking_value": 356
+  },
+  {
+    "booking_id": "CNR8000993482",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1835
+  },
+  {
+    "booking_id": "CNR2588489711",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1065
+  },
+  {
+    "booking_id": "CNR5234253257",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 393
+  },
+  {
+    "booking_id": "CNR2564639381",
+    "vehicle_type": "Auto",
+    "booking_value": 495
+  },
+  {
+    "booking_id": "CNR4011678024",
+    "vehicle_type": "Mini",
+    "booking_value": 390
+  },
+  {
+    "booking_id": "CNR9128487422",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 237
+  },
+  {
+    "booking_id": "CNR5276752307",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 752
+  },
+  {
+    "booking_id": "CNR9371669050",
+    "vehicle_type": "eBike",
+    "booking_value": 256
+  },
+  {
+    "booking_id": "CNR4457088806",
+    "vehicle_type": "Mini",
+    "booking_value": 309
+  },
+  {
+    "booking_id": "CNR4354062360",
+    "vehicle_type": "Mini",
+    "booking_value": 782
+  },
+  {
+    "booking_id": "CNR6491123218",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 208
+  },
+  {
+    "booking_id": "CNR8467747572",
+    "vehicle_type": "Mini",
+    "booking_value": 567
+  },
+  {
+    "booking_id": "CNR6809456544",
+    "vehicle_type": "Auto",
+    "booking_value": 228
+  },
+  {
+    "booking_id": "CNR1862612151",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 364
   },
   {
     "booking_id": "CNR3686926291",
     "vehicle_type": "eBike",
-    "booking_value": 2944,
-    "payment_method": "Cash"
+    "booking_value": 2944
+  },
+  {
+    "booking_id": "CNR5872044172",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 412
+  },
+  {
+    "booking_id": "CNR8328108729",
+    "vehicle_type": "Mini",
+    "booking_value": 216
+  },
+  {
+    "booking_id": "CNR5988079650",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 2143
+  },
+  {
+    "booking_id": "CNR3276138022",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 172
+  },
+  {
+    "booking_id": "CNR3958098786",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 2429
+  },
+  {
+    "booking_id": "CNR1816364514",
+    "vehicle_type": "Auto",
+    "booking_value": 809
+  },
+  {
+    "booking_id": "CNR2849784490",
+    "vehicle_type": "Auto",
+    "booking_value": 451
+  },
+  {
+    "booking_id": "CNR6972748438",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 133
+  },
+  {
+    "booking_id": "CNR1791648324",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 367
+  },
+  {
+    "booking_id": "CNR7103761124",
+    "vehicle_type": "Bike",
+    "booking_value": 742
+  },
+  {
+    "booking_id": "CNR6585703917",
+    "vehicle_type": "Auto",
+    "booking_value": 489
+  },
+  {
+    "booking_id": "CNR3296240325",
+    "vehicle_type": "eBike",
+    "booking_value": 506
+  },
+  {
+    "booking_id": "CNR8223523166",
+    "vehicle_type": "Bike",
+    "booking_value": 601
+  },
+  {
+    "booking_id": "CNR9735660911",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 379
+  },
+  {
+    "booking_id": "CNR4329982789",
+    "vehicle_type": "Bike",
+    "booking_value": 241
+  },
+  {
+    "booking_id": "CNR9701922914",
+    "vehicle_type": "eBike",
+    "booking_value": 204
+  },
+  {
+    "booking_id": "CNR3324553934",
+    "vehicle_type": "Bike",
+    "booking_value": 482
+  },
+  {
+    "booking_id": "CNR3591025608",
+    "vehicle_type": "Bike",
+    "booking_value": 577
+  },
+  {
+    "booking_id": "CNR7301600524",
+    "vehicle_type": "Auto",
+    "booking_value": 892
+  },
+  {
+    "booking_id": "CNR4776471359",
+    "vehicle_type": "eBike",
+    "booking_value": 674
+  },
+  {
+    "booking_id": "CNR3700416786",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 447
+  },
+  {
+    "booking_id": "CNR3462340628",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 148
+  },
+  {
+    "booking_id": "CNR5219382157",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 101
+  },
+  {
+    "booking_id": "CNR4165442717",
+    "vehicle_type": "eBike",
+    "booking_value": 231
+  },
+  {
+    "booking_id": "CNR1759069706",
+    "vehicle_type": "Bike",
+    "booking_value": 172
+  },
+  {
+    "booking_id": "CNR1998845379",
+    "vehicle_type": "Auto",
+    "booking_value": 186
+  },
+  {
+    "booking_id": "CNR4936120069",
+    "vehicle_type": "Auto",
+    "booking_value": 943
+  },
+  {
+    "booking_id": "CNR3611954724",
+    "vehicle_type": "Bike",
+    "booking_value": 255
+  },
+  {
+    "booking_id": "CNR7597276757",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 121
+  },
+  {
+    "booking_id": "CNR6716480946",
+    "vehicle_type": "Mini",
+    "booking_value": 255
+  },
+  {
+    "booking_id": "CNR6482129028",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2109
+  },
+  {
+    "booking_id": "CNR6666854548",
+    "vehicle_type": "Bike",
+    "booking_value": 415
+  },
+  {
+    "booking_id": "CNR9333273492",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 594
+  },
+  {
+    "booking_id": "CNR3920498221",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 984
+  },
+  {
+    "booking_id": "CNR8705137963",
+    "vehicle_type": "Auto",
+    "booking_value": 727
+  },
+  {
+    "booking_id": "CNR8273757466",
+    "vehicle_type": "eBike",
+    "booking_value": 515
+  },
+  {
+    "booking_id": "CNR3132012889",
+    "vehicle_type": "Auto",
+    "booking_value": 848
+  },
+  {
+    "booking_id": "CNR4759587059",
+    "vehicle_type": "Mini",
+    "booking_value": 997
+  },
+  {
+    "booking_id": "CNR5983043846",
+    "vehicle_type": "Mini",
+    "booking_value": 191
+  },
+  {
+    "booking_id": "CNR7848570023",
+    "vehicle_type": "eBike",
+    "booking_value": 996
+  },
+  {
+    "booking_id": "CNR6296806775",
+    "vehicle_type": "Bike",
+    "booking_value": 378
+  },
+  {
+    "booking_id": "CNR1105102697",
+    "vehicle_type": "Mini",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR5208477487",
+    "vehicle_type": "eBike",
+    "booking_value": 256
+  },
+  {
+    "booking_id": "CNR2784806529",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 342
+  },
+  {
+    "booking_id": "CNR9158255048",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 445
+  },
+  {
+    "booking_id": "CNR3074008264",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 403
+  },
+  {
+    "booking_id": "CNR2344843448",
+    "vehicle_type": "eBike",
+    "booking_value": 327
+  },
+  {
+    "booking_id": "CNR3107130785",
+    "vehicle_type": "Auto",
+    "booking_value": 796
+  },
+  {
+    "booking_id": "CNR5096526505",
+    "vehicle_type": "Bike",
+    "booking_value": 371
+  },
+  {
+    "booking_id": "CNR5356461401",
+    "vehicle_type": "Bike",
+    "booking_value": 209
+  },
+  {
+    "booking_id": "CNR6230414626",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2008
+  },
+  {
+    "booking_id": "CNR9848023419",
+    "vehicle_type": "Auto",
+    "booking_value": 255
+  },
+  {
+    "booking_id": "CNR3246542979",
+    "vehicle_type": "eBike",
+    "booking_value": 101
+  },
+  {
+    "booking_id": "CNR7874049610",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 960
+  },
+  {
+    "booking_id": "CNR6035501952",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 169
+  },
+  {
+    "booking_id": "CNR4481374455",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 679
+  },
+  {
+    "booking_id": "CNR2357234097",
+    "vehicle_type": "Auto",
+    "booking_value": 554
+  },
+  {
+    "booking_id": "CNR2039847064",
+    "vehicle_type": "Bike",
+    "booking_value": 155
+  },
+  {
+    "booking_id": "CNR5966858733",
+    "vehicle_type": "Auto",
+    "booking_value": 329
+  },
+  {
+    "booking_id": "CNR7903784728",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 107
+  },
+  {
+    "booking_id": "CNR8347955381",
+    "vehicle_type": "Bike",
+    "booking_value": 312
+  },
+  {
+    "booking_id": "CNR2832086626",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 280
+  },
+  {
+    "booking_id": "CNR4998197969",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 650
+  },
+  {
+    "booking_id": "CNR6156105428",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 666
+  },
+  {
+    "booking_id": "CNR5096259907",
+    "vehicle_type": "eBike",
+    "booking_value": 176
+  },
+  {
+    "booking_id": "CNR9122241273",
+    "vehicle_type": "Auto",
+    "booking_value": 496
+  },
+  {
+    "booking_id": "CNR1676719178",
+    "vehicle_type": "Mini",
+    "booking_value": 317
+  },
+  {
+    "booking_id": "CNR5524915002",
+    "vehicle_type": "Auto",
+    "booking_value": 962
+  },
+  {
+    "booking_id": "CNR5958445056",
+    "vehicle_type": "eBike",
+    "booking_value": 642
+  },
+  {
+    "booking_id": "CNR3211877735",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 228
+  },
+  {
+    "booking_id": "CNR9388107682",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 216
+  },
+  {
+    "booking_id": "CNR1998613771",
+    "vehicle_type": "eBike",
+    "booking_value": 477
+  },
+  {
+    "booking_id": "CNR6923677666",
+    "vehicle_type": "Bike",
+    "booking_value": 277
+  },
+  {
+    "booking_id": "CNR1852454738",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 601
+  },
+  {
+    "booking_id": "CNR2441774613",
+    "vehicle_type": "Bike",
+    "booking_value": 258
+  },
+  {
+    "booking_id": "CNR3551606226",
+    "vehicle_type": "Bike",
+    "booking_value": 345
+  },
+  {
+    "booking_id": "CNR9266238014",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 104
+  },
+  {
+    "booking_id": "CNR3178581771",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 780
+  },
+  {
+    "booking_id": "CNR6630122956",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 488
+  },
+  {
+    "booking_id": "CNR6481461779",
+    "vehicle_type": "eBike",
+    "booking_value": 349
+  },
+  {
+    "booking_id": "CNR9827470995",
+    "vehicle_type": "Auto",
+    "booking_value": 303
+  },
+  {
+    "booking_id": "CNR7059118300",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 458
+  },
+  {
+    "booking_id": "CNR9098980512",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 203
   },
   {
     "booking_id": "CNR5075935226",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2695,
-    "payment_method": "null"
+    "booking_value": 2695
+  },
+  {
+    "booking_id": "CNR9114796293",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 472
+  },
+  {
+    "booking_id": "CNR1336073950",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 657
+  },
+  {
+    "booking_id": "CNR9890176683",
+    "vehicle_type": "eBike",
+    "booking_value": 747
+  },
+  {
+    "booking_id": "CNR9246105731",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 114
+  },
+  {
+    "booking_id": "CNR1263936541",
+    "vehicle_type": "Auto",
+    "booking_value": 137
+  },
+  {
+    "booking_id": "CNR7582255360",
+    "vehicle_type": "Bike",
+    "booking_value": 202
+  },
+  {
+    "booking_id": "CNR8874870004",
+    "vehicle_type": "Auto",
+    "booking_value": 771
+  },
+  {
+    "booking_id": "CNR2087486954",
+    "vehicle_type": "eBike",
+    "booking_value": 849
+  },
+  {
+    "booking_id": "CNR8745813955",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 849
+  },
+  {
+    "booking_id": "CNR7237276647",
+    "vehicle_type": "Mini",
+    "booking_value": 402
+  },
+  {
+    "booking_id": "CNR3538574363",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 269
+  },
+  {
+    "booking_id": "CNR4923629923",
+    "vehicle_type": "Auto",
+    "booking_value": 296
+  },
+  {
+    "booking_id": "CNR5060999775",
+    "vehicle_type": "Auto",
+    "booking_value": 397
+  },
+  {
+    "booking_id": "CNR4550726008",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 391
+  },
+  {
+    "booking_id": "CNR6155120699",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 347
+  },
+  {
+    "booking_id": "CNR8595494218",
+    "vehicle_type": "Auto",
+    "booking_value": 290
+  },
+  {
+    "booking_id": "CNR6147414992",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 478
+  },
+  {
+    "booking_id": "CNR3929678886",
+    "vehicle_type": "eBike",
+    "booking_value": 264
+  },
+  {
+    "booking_id": "CNR1780998824",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 324
+  },
+  {
+    "booking_id": "CNR7710804440",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 438
+  },
+  {
+    "booking_id": "CNR8105903458",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 285
+  },
+  {
+    "booking_id": "CNR4672172755",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 493
+  },
+  {
+    "booking_id": "CNR5272594548",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 470
+  },
+  {
+    "booking_id": "CNR8535011317",
+    "vehicle_type": "Bike",
+    "booking_value": 155
+  },
+  {
+    "booking_id": "CNR6548861474",
+    "vehicle_type": "Bike",
+    "booking_value": 139
   },
   {
     "booking_id": "CNR3096920957",
     "vehicle_type": "Auto",
-    "booking_value": 2851,
-    "payment_method": "UPI"
+    "booking_value": 2851
   },
   {
     "booking_id": "CNR6844255970",
     "vehicle_type": "eBike",
-    "booking_value": 2638,
-    "payment_method": "null"
+    "booking_value": 2638
+  },
+  {
+    "booking_id": "CNR5106611023",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 426
+  },
+  {
+    "booking_id": "CNR4676885596",
+    "vehicle_type": "Mini",
+    "booking_value": 579
+  },
+  {
+    "booking_id": "CNR8282607088",
+    "vehicle_type": "Mini",
+    "booking_value": 358
+  },
+  {
+    "booking_id": "CNR7249326192",
+    "vehicle_type": "Bike",
+    "booking_value": 165
   },
   {
     "booking_id": "CNR5961372525",
     "vehicle_type": "Auto",
-    "booking_value": 2684,
-    "payment_method": "null"
+    "booking_value": 2684
+  },
+  {
+    "booking_id": "CNR5743469846",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 145
+  },
+  {
+    "booking_id": "CNR7807535423",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 336
+  },
+  {
+    "booking_id": "CNR7127343811",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 589
+  },
+  {
+    "booking_id": "CNR8143996976",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 184
+  },
+  {
+    "booking_id": "CNR8265796055",
+    "vehicle_type": "eBike",
+    "booking_value": 250
+  },
+  {
+    "booking_id": "CNR2731832411",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 342
+  },
+  {
+    "booking_id": "CNR5893227620",
+    "vehicle_type": "Mini",
+    "booking_value": 665
+  },
+  {
+    "booking_id": "CNR2900227014",
+    "vehicle_type": "Mini",
+    "booking_value": 217
+  },
+  {
+    "booking_id": "CNR4369876269",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 358
+  },
+  {
+    "booking_id": "CNR6315774432",
+    "vehicle_type": "eBike",
+    "booking_value": 206
+  },
+  {
+    "booking_id": "CNR6359719407",
+    "vehicle_type": "Auto",
+    "booking_value": 336
+  },
+  {
+    "booking_id": "CNR9415043355",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 474
+  },
+  {
+    "booking_id": "CNR7333194442",
+    "vehicle_type": "Mini",
+    "booking_value": 360
+  },
+  {
+    "booking_id": "CNR5730003067",
+    "vehicle_type": "Bike",
+    "booking_value": 157
+  },
+  {
+    "booking_id": "CNR7722077781",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 644
+  },
+  {
+    "booking_id": "CNR8202988828",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 379
+  },
+  {
+    "booking_id": "CNR2038802889",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 451
   },
   {
     "booking_id": "CNR2100101481",
     "vehicle_type": "Mini",
-    "booking_value": 2681,
-    "payment_method": "null"
+    "booking_value": 2681
+  },
+  {
+    "booking_id": "CNR1407287806",
+    "vehicle_type": "eBike",
+    "booking_value": 577
+  },
+  {
+    "booking_id": "CNR5232169923",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 150
+  },
+  {
+    "booking_id": "CNR2926147753",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 260
+  },
+  {
+    "booking_id": "CNR8926994709",
+    "vehicle_type": "Bike",
+    "booking_value": 830
+  },
+  {
+    "booking_id": "CNR2362099931",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR8825504314",
+    "vehicle_type": "Bike",
+    "booking_value": 180
+  },
+  {
+    "booking_id": "CNR3690929103",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 100
+  },
+  {
+    "booking_id": "CNR5273898512",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 375
+  },
+  {
+    "booking_id": "CNR9724333556",
+    "vehicle_type": "eBike",
+    "booking_value": 939
+  },
+  {
+    "booking_id": "CNR7566830663",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 207
+  },
+  {
+    "booking_id": "CNR7822711041",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 959
+  },
+  {
+    "booking_id": "CNR5652451203",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 434
+  },
+  {
+    "booking_id": "CNR2458194211",
+    "vehicle_type": "Auto",
+    "booking_value": 1181
+  },
+  {
+    "booking_id": "CNR9573102534",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 450
+  },
+  {
+    "booking_id": "CNR2671538988",
+    "vehicle_type": "eBike",
+    "booking_value": 333
+  },
+  {
+    "booking_id": "CNR1930983760",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 130
+  },
+  {
+    "booking_id": "CNR1576690644",
+    "vehicle_type": "Auto",
+    "booking_value": 144
+  },
+  {
+    "booking_id": "CNR6687046527",
+    "vehicle_type": "Auto",
+    "booking_value": 961
+  },
+  {
+    "booking_id": "CNR5214223947",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 604
+  },
+  {
+    "booking_id": "CNR3696598594",
+    "vehicle_type": "Auto",
+    "booking_value": 342
+  },
+  {
+    "booking_id": "CNR8589920790",
+    "vehicle_type": "Mini",
+    "booking_value": 409
+  },
+  {
+    "booking_id": "CNR3050266121",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 489
+  },
+  {
+    "booking_id": "CNR8248650136",
+    "vehicle_type": "Auto",
+    "booking_value": 929
+  },
+  {
+    "booking_id": "CNR8277565872",
+    "vehicle_type": "Mini",
+    "booking_value": 346
+  },
+  {
+    "booking_id": "CNR8229656349",
+    "vehicle_type": "Mini",
+    "booking_value": 793
+  },
+  {
+    "booking_id": "CNR2972442433",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 469
+  },
+  {
+    "booking_id": "CNR7109314308",
+    "vehicle_type": "eBike",
+    "booking_value": 233
+  },
+  {
+    "booking_id": "CNR9633582377",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 401
+  },
+  {
+    "booking_id": "CNR7314215778",
+    "vehicle_type": "Auto",
+    "booking_value": 207
+  },
+  {
+    "booking_id": "CNR8070363718",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 351
+  },
+  {
+    "booking_id": "CNR7643459345",
+    "vehicle_type": "Bike",
+    "booking_value": 402
+  },
+  {
+    "booking_id": "CNR5920793060",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 624
+  },
+  {
+    "booking_id": "CNR3558335067",
+    "vehicle_type": "Mini",
+    "booking_value": 945
+  },
+  {
+    "booking_id": "CNR5902195430",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 295
+  },
+  {
+    "booking_id": "CNR6938164723",
+    "vehicle_type": "Auto",
+    "booking_value": 718
+  },
+  {
+    "booking_id": "CNR3989026336",
+    "vehicle_type": "Auto",
+    "booking_value": 963
+  },
+  {
+    "booking_id": "CNR7947752424",
+    "vehicle_type": "Bike",
+    "booking_value": 1869
+  },
+  {
+    "booking_id": "CNR5515574345",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 918
+  },
+  {
+    "booking_id": "CNR5193789377",
+    "vehicle_type": "Auto",
+    "booking_value": 134
+  },
+  {
+    "booking_id": "CNR6987923530",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 345
+  },
+  {
+    "booking_id": "CNR1447068216",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 924
+  },
+  {
+    "booking_id": "CNR2862815650",
+    "vehicle_type": "eBike",
+    "booking_value": 373
+  },
+  {
+    "booking_id": "CNR7792061159",
+    "vehicle_type": "Mini",
+    "booking_value": 375
+  },
+  {
+    "booking_id": "CNR9039416911",
+    "vehicle_type": "Mini",
+    "booking_value": 268
+  },
+  {
+    "booking_id": "CNR5793649611",
+    "vehicle_type": "Auto",
+    "booking_value": 519
+  },
+  {
+    "booking_id": "CNR6854201913",
+    "vehicle_type": "Bike",
+    "booking_value": 141
+  },
+  {
+    "booking_id": "CNR7087492547",
+    "vehicle_type": "Bike",
+    "booking_value": 186
+  },
+  {
+    "booking_id": "CNR4143470815",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 982
+  },
+  {
+    "booking_id": "CNR8792365083",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR4160637846",
+    "vehicle_type": "Mini",
+    "booking_value": 803
+  },
+  {
+    "booking_id": "CNR4730462346",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 389
+  },
+  {
+    "booking_id": "CNR3717381634",
+    "vehicle_type": "eBike",
+    "booking_value": 135
+  },
+  {
+    "booking_id": "CNR3417502965",
+    "vehicle_type": "eBike",
+    "booking_value": 432
+  },
+  {
+    "booking_id": "CNR3600939753",
+    "vehicle_type": "Bike",
+    "booking_value": 424
+  },
+  {
+    "booking_id": "CNR5181746297",
+    "vehicle_type": "Mini",
+    "booking_value": 1866
   },
   {
     "booking_id": "CNR6672329764",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2981,
-    "payment_method": "Cash"
+    "booking_value": 2981
+  },
+  {
+    "booking_id": "CNR8934509053",
+    "vehicle_type": "Bike",
+    "booking_value": 719
+  },
+  {
+    "booking_id": "CNR7734309821",
+    "vehicle_type": "eBike",
+    "booking_value": 499
+  },
+  {
+    "booking_id": "CNR3264754489",
+    "vehicle_type": "eBike",
+    "booking_value": 454
+  },
+  {
+    "booking_id": "CNR6354004178",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 242
+  },
+  {
+    "booking_id": "CNR4658965953",
+    "vehicle_type": "Mini",
+    "booking_value": 663
+  },
+  {
+    "booking_id": "CNR7296216469",
+    "vehicle_type": "Mini",
+    "booking_value": 442
+  },
+  {
+    "booking_id": "CNR1027785146",
+    "vehicle_type": "Auto",
+    "booking_value": 454
+  },
+  {
+    "booking_id": "CNR6293456759",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 192
+  },
+  {
+    "booking_id": "CNR7895473510",
+    "vehicle_type": "Auto",
+    "booking_value": 253
+  },
+  {
+    "booking_id": "CNR4112350664",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 446
+  },
+  {
+    "booking_id": "CNR9735730132",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 345
+  },
+  {
+    "booking_id": "CNR7765648208",
+    "vehicle_type": "Auto",
+    "booking_value": 361
+  },
+  {
+    "booking_id": "CNR5848221847",
+    "vehicle_type": "Mini",
+    "booking_value": 418
+  },
+  {
+    "booking_id": "CNR7431340936",
+    "vehicle_type": "Mini",
+    "booking_value": 475
+  },
+  {
+    "booking_id": "CNR2569160184",
+    "vehicle_type": "Bike",
+    "booking_value": 370
+  },
+  {
+    "booking_id": "CNR6294714720",
+    "vehicle_type": "eBike",
+    "booking_value": 291
+  },
+  {
+    "booking_id": "CNR9556051787",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 283
+  },
+  {
+    "booking_id": "CNR3151562230",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 105
+  },
+  {
+    "booking_id": "CNR3888627336",
+    "vehicle_type": "Mini",
+    "booking_value": 1918
+  },
+  {
+    "booking_id": "CNR6536563208",
+    "vehicle_type": "Mini",
+    "booking_value": 412
+  },
+  {
+    "booking_id": "CNR9221369404",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 110
+  },
+  {
+    "booking_id": "CNR5701220733",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 294
+  },
+  {
+    "booking_id": "CNR7419458512",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 571
+  },
+  {
+    "booking_id": "CNR7587397053",
+    "vehicle_type": "Mini",
+    "booking_value": 187
+  },
+  {
+    "booking_id": "CNR6987499296",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 364
+  },
+  {
+    "booking_id": "CNR4029323577",
+    "vehicle_type": "eBike",
+    "booking_value": 241
+  },
+  {
+    "booking_id": "CNR6398804130",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 290
+  },
+  {
+    "booking_id": "CNR5457171323",
+    "vehicle_type": "Mini",
+    "booking_value": 915
+  },
+  {
+    "booking_id": "CNR9662064828",
+    "vehicle_type": "eBike",
+    "booking_value": 746
+  },
+  {
+    "booking_id": "CNR3107498077",
+    "vehicle_type": "eBike",
+    "booking_value": 427
+  },
+  {
+    "booking_id": "CNR3952732444",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 409
+  },
+  {
+    "booking_id": "CNR5777910597",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 898
+  },
+  {
+    "booking_id": "CNR2991513181",
+    "vehicle_type": "Auto",
+    "booking_value": 305
   },
   {
     "booking_id": "CNR5940757396",
     "vehicle_type": "Mini",
-    "booking_value": 2501,
-    "payment_method": "null"
+    "booking_value": 2501
   },
   {
     "booking_id": "CNR7375877575",
     "vehicle_type": "Prime Plus",
-    "booking_value": 2926,
-    "payment_method": "UPI"
+    "booking_value": 2926
+  },
+  {
+    "booking_id": "CNR1872080690",
+    "vehicle_type": "Auto",
+    "booking_value": 463
+  },
+  {
+    "booking_id": "CNR8442827020",
+    "vehicle_type": "Auto",
+    "booking_value": 717
+  },
+  {
+    "booking_id": "CNR8692201198",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 214
+  },
+  {
+    "booking_id": "CNR3016403523",
+    "vehicle_type": "Mini",
+    "booking_value": 434
+  },
+  {
+    "booking_id": "CNR1593407677",
+    "vehicle_type": "Mini",
+    "booking_value": 318
+  },
+  {
+    "booking_id": "CNR4313471304",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 247
+  },
+  {
+    "booking_id": "CNR4050153436",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 207
+  },
+  {
+    "booking_id": "CNR8141621703",
+    "vehicle_type": "eBike",
+    "booking_value": 172
+  },
+  {
+    "booking_id": "CNR1852330795",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 108
+  },
+  {
+    "booking_id": "CNR3515016228",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 230
+  },
+  {
+    "booking_id": "CNR6664390913",
+    "vehicle_type": "Mini",
+    "booking_value": 391
+  },
+  {
+    "booking_id": "CNR5020910140",
+    "vehicle_type": "eBike",
+    "booking_value": 189
+  },
+  {
+    "booking_id": "CNR2303900695",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 355
+  },
+  {
+    "booking_id": "CNR7089337616",
+    "vehicle_type": "Auto",
+    "booking_value": 205
+  },
+  {
+    "booking_id": "CNR7156159431",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 738
+  },
+  {
+    "booking_id": "CNR9155782240",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 217
+  },
+  {
+    "booking_id": "CNR6247095121",
+    "vehicle_type": "Auto",
+    "booking_value": 217
+  },
+  {
+    "booking_id": "CNR2779154048",
+    "vehicle_type": "Auto",
+    "booking_value": 394
+  },
+  {
+    "booking_id": "CNR7865258416",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 948
+  },
+  {
+    "booking_id": "CNR7022469695",
+    "vehicle_type": "Mini",
+    "booking_value": 553
+  },
+  {
+    "booking_id": "CNR7814983210",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 930
+  },
+  {
+    "booking_id": "CNR2502432692",
+    "vehicle_type": "Mini",
+    "booking_value": 753
+  },
+  {
+    "booking_id": "CNR4297020438",
+    "vehicle_type": "eBike",
+    "booking_value": 473
+  },
+  {
+    "booking_id": "CNR2898581380",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 458
+  },
+  {
+    "booking_id": "CNR5878457606",
+    "vehicle_type": "Auto",
+    "booking_value": 1164
+  },
+  {
+    "booking_id": "CNR9753708858",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 350
+  },
+  {
+    "booking_id": "CNR7981405163",
+    "vehicle_type": "Bike",
+    "booking_value": 491
+  },
+  {
+    "booking_id": "CNR1459522677",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 376
+  },
+  {
+    "booking_id": "CNR7944506445",
+    "vehicle_type": "Auto",
+    "booking_value": 393
+  },
+  {
+    "booking_id": "CNR3549347253",
+    "vehicle_type": "eBike",
+    "booking_value": 274
+  },
+  {
+    "booking_id": "CNR8422419602",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 433
+  },
+  {
+    "booking_id": "CNR5855634722",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 192
+  },
+  {
+    "booking_id": "CNR8320043637",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 976
+  },
+  {
+    "booking_id": "CNR8034283783",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 329
+  },
+  {
+    "booking_id": "CNR3256371921",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 272
+  },
+  {
+    "booking_id": "CNR8022592314",
+    "vehicle_type": "Bike",
+    "booking_value": 340
+  },
+  {
+    "booking_id": "CNR1440283141",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 564
+  },
+  {
+    "booking_id": "CNR8786686268",
+    "vehicle_type": "Auto",
+    "booking_value": 745
+  },
+  {
+    "booking_id": "CNR7641018528",
+    "vehicle_type": "Bike",
+    "booking_value": 381
+  },
+  {
+    "booking_id": "CNR6470195463",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 413
+  },
+  {
+    "booking_id": "CNR7917159192",
+    "vehicle_type": "Mini",
+    "booking_value": 730
+  },
+  {
+    "booking_id": "CNR9509424303",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 295
+  },
+  {
+    "booking_id": "CNR8287954331",
+    "vehicle_type": "eBike",
+    "booking_value": 108
+  },
+  {
+    "booking_id": "CNR1456183116",
+    "vehicle_type": "eBike",
+    "booking_value": 459
+  },
+  {
+    "booking_id": "CNR3291976622",
+    "vehicle_type": "Mini",
+    "booking_value": 254
+  },
+  {
+    "booking_id": "CNR8127313439",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 494
+  },
+  {
+    "booking_id": "CNR1411493057",
+    "vehicle_type": "Mini",
+    "booking_value": 118
+  },
+  {
+    "booking_id": "CNR4906896933",
+    "vehicle_type": "eBike",
+    "booking_value": 361
+  },
+  {
+    "booking_id": "CNR9098900102",
+    "vehicle_type": "eBike",
+    "booking_value": 202
   },
   {
     "booking_id": "CNR8778214565",
     "vehicle_type": "eBike",
-    "booking_value": 2642,
-    "payment_method": "null"
+    "booking_value": 2642
+  },
+  {
+    "booking_id": "CNR9013284015",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 498
+  },
+  {
+    "booking_id": "CNR1899513439",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 240
+  },
+  {
+    "booking_id": "CNR3457246461",
+    "vehicle_type": "Mini",
+    "booking_value": 399
+  },
+  {
+    "booking_id": "CNR3328257189",
+    "vehicle_type": "Bike",
+    "booking_value": 303
+  },
+  {
+    "booking_id": "CNR9514979628",
+    "vehicle_type": "Bike",
+    "booking_value": 261
+  },
+  {
+    "booking_id": "CNR6683059009",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 340
+  },
+  {
+    "booking_id": "CNR6521243972",
+    "vehicle_type": "Mini",
+    "booking_value": 662
+  },
+  {
+    "booking_id": "CNR5249945945",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 569
+  },
+  {
+    "booking_id": "CNR4959722358",
+    "vehicle_type": "eBike",
+    "booking_value": 185
+  },
+  {
+    "booking_id": "CNR7004499391",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 322
+  },
+  {
+    "booking_id": "CNR6185886977",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 279
+  },
+  {
+    "booking_id": "CNR6190557479",
+    "vehicle_type": "eBike",
+    "booking_value": 468
+  },
+  {
+    "booking_id": "CNR3718911387",
+    "vehicle_type": "Auto",
+    "booking_value": 436
+  },
+  {
+    "booking_id": "CNR5475627471",
+    "vehicle_type": "Bike",
+    "booking_value": 121
+  },
+  {
+    "booking_id": "CNR6300023142",
+    "vehicle_type": "Auto",
+    "booking_value": 1265
+  },
+  {
+    "booking_id": "CNR8793757122",
+    "vehicle_type": "Auto",
+    "booking_value": 409
+  },
+  {
+    "booking_id": "CNR1931024373",
+    "vehicle_type": "Mini",
+    "booking_value": 303
+  },
+  {
+    "booking_id": "CNR3737438536",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 339
+  },
+  {
+    "booking_id": "CNR5549987779",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 119
+  },
+  {
+    "booking_id": "CNR4166236620",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR5842450029",
+    "vehicle_type": "Auto",
+    "booking_value": 429
+  },
+  {
+    "booking_id": "CNR3086279264",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 158
+  },
+  {
+    "booking_id": "CNR3092150984",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 486
+  },
+  {
+    "booking_id": "CNR5785794868",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 196
+  },
+  {
+    "booking_id": "CNR3092594393",
+    "vehicle_type": "Bike",
+    "booking_value": 532
+  },
+  {
+    "booking_id": "CNR8736294385",
+    "vehicle_type": "eBike",
+    "booking_value": 499
+  },
+  {
+    "booking_id": "CNR8157928979",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 642
+  },
+  {
+    "booking_id": "CNR3416620657",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1946
+  },
+  {
+    "booking_id": "CNR3514157582",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 435
+  },
+  {
+    "booking_id": "CNR5353677897",
+    "vehicle_type": "Mini",
+    "booking_value": 463
+  },
+  {
+    "booking_id": "CNR7038990440",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 100
+  },
+  {
+    "booking_id": "CNR7110634082",
+    "vehicle_type": "Bike",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR8893814860",
+    "vehicle_type": "Mini",
+    "booking_value": 351
+  },
+  {
+    "booking_id": "CNR7540240070",
+    "vehicle_type": "Mini",
+    "booking_value": 452
+  },
+  {
+    "booking_id": "CNR5370106193",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 695
+  },
+  {
+    "booking_id": "CNR2246347681",
+    "vehicle_type": "Bike",
+    "booking_value": 940
+  },
+  {
+    "booking_id": "CNR3450602497",
+    "vehicle_type": "Auto",
+    "booking_value": 2129
+  },
+  {
+    "booking_id": "CNR5609417423",
+    "vehicle_type": "Mini",
+    "booking_value": 405
+  },
+  {
+    "booking_id": "CNR4615608754",
+    "vehicle_type": "eBike",
+    "booking_value": 382
+  },
+  {
+    "booking_id": "CNR6445080363",
+    "vehicle_type": "eBike",
+    "booking_value": 279
+  },
+  {
+    "booking_id": "CNR4002530518",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 104
+  },
+  {
+    "booking_id": "CNR9986843921",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 136
+  },
+  {
+    "booking_id": "CNR2753338754",
+    "vehicle_type": "eBike",
+    "booking_value": 239
+  },
+  {
+    "booking_id": "CNR5528674251",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 244
+  },
+  {
+    "booking_id": "CNR7958289091",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 225
+  },
+  {
+    "booking_id": "CNR1663305836",
+    "vehicle_type": "eBike",
+    "booking_value": 744
+  },
+  {
+    "booking_id": "CNR8719325633",
+    "vehicle_type": "Auto",
+    "booking_value": 843
+  },
+  {
+    "booking_id": "CNR1685989752",
+    "vehicle_type": "eBike",
+    "booking_value": 168
+  },
+  {
+    "booking_id": "CNR5480403089",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 363
+  },
+  {
+    "booking_id": "CNR5137043296",
+    "vehicle_type": "Mini",
+    "booking_value": 314
+  },
+  {
+    "booking_id": "CNR9477095299",
+    "vehicle_type": "Mini",
+    "booking_value": 247
+  },
+  {
+    "booking_id": "CNR8883541278",
+    "vehicle_type": "Mini",
+    "booking_value": 470
+  },
+  {
+    "booking_id": "CNR3965859566",
+    "vehicle_type": "eBike",
+    "booking_value": 260
+  },
+  {
+    "booking_id": "CNR7673066991",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 407
+  },
+  {
+    "booking_id": "CNR2845789701",
+    "vehicle_type": "eBike",
+    "booking_value": 369
+  },
+  {
+    "booking_id": "CNR6169207766",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 420
   },
   {
     "booking_id": "CNR8516409614",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2877,
-    "payment_method": "Cash"
+    "booking_value": 2877
+  },
+  {
+    "booking_id": "CNR8744346612",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 955
+  },
+  {
+    "booking_id": "CNR5284344363",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 428
+  },
+  {
+    "booking_id": "CNR8291672496",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 874
+  },
+  {
+    "booking_id": "CNR2485427128",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 382
+  },
+  {
+    "booking_id": "CNR1362571268",
+    "vehicle_type": "Bike",
+    "booking_value": 657
+  },
+  {
+    "booking_id": "CNR2686926257",
+    "vehicle_type": "Auto",
+    "booking_value": 207
+  },
+  {
+    "booking_id": "CNR9625639272",
+    "vehicle_type": "Auto",
+    "booking_value": 945
+  },
+  {
+    "booking_id": "CNR9498672052",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 264
+  },
+  {
+    "booking_id": "CNR2485766659",
+    "vehicle_type": "eBike",
+    "booking_value": 115
+  },
+  {
+    "booking_id": "CNR4395882254",
+    "vehicle_type": "Auto",
+    "booking_value": 281
+  },
+  {
+    "booking_id": "CNR8811507785",
+    "vehicle_type": "Auto",
+    "booking_value": 1881
+  },
+  {
+    "booking_id": "CNR2904644602",
+    "vehicle_type": "eBike",
+    "booking_value": 422
+  },
+  {
+    "booking_id": "CNR5382510753",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 869
+  },
+  {
+    "booking_id": "CNR9176065097",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 353
+  },
+  {
+    "booking_id": "CNR3762140934",
+    "vehicle_type": "Mini",
+    "booking_value": 238
+  },
+  {
+    "booking_id": "CNR5698781178",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 456
+  },
+  {
+    "booking_id": "CNR7455139064",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 331
+  },
+  {
+    "booking_id": "CNR1524307839",
+    "vehicle_type": "Auto",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR5656596719",
+    "vehicle_type": "eBike",
+    "booking_value": 332
+  },
+  {
+    "booking_id": "CNR2421723113",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 404
+  },
+  {
+    "booking_id": "CNR5163916188",
+    "vehicle_type": "Bike",
+    "booking_value": 291
+  },
+  {
+    "booking_id": "CNR6284791372",
+    "vehicle_type": "Mini",
+    "booking_value": 1367
+  },
+  {
+    "booking_id": "CNR7916590115",
+    "vehicle_type": "Bike",
+    "booking_value": 318
+  },
+  {
+    "booking_id": "CNR5757332160",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 269
+  },
+  {
+    "booking_id": "CNR3590679564",
+    "vehicle_type": "Auto",
+    "booking_value": 213
+  },
+  {
+    "booking_id": "CNR9055951164",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 389
+  },
+  {
+    "booking_id": "CNR5314914495",
+    "vehicle_type": "Bike",
+    "booking_value": 369
+  },
+  {
+    "booking_id": "CNR4001295021",
+    "vehicle_type": "Auto",
+    "booking_value": 301
+  },
+  {
+    "booking_id": "CNR5992604716",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 409
+  },
+  {
+    "booking_id": "CNR7326154593",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 425
+  },
+  {
+    "booking_id": "CNR2055030564",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 555
+  },
+  {
+    "booking_id": "CNR2169559650",
+    "vehicle_type": "Auto",
+    "booking_value": 760
+  },
+  {
+    "booking_id": "CNR5850143777",
+    "vehicle_type": "Bike",
+    "booking_value": 355
+  },
+  {
+    "booking_id": "CNR4454899928",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 289
+  },
+  {
+    "booking_id": "CNR6044469190",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 117
+  },
+  {
+    "booking_id": "CNR8941244774",
+    "vehicle_type": "eBike",
+    "booking_value": 316
+  },
+  {
+    "booking_id": "CNR1810463571",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 618
+  },
+  {
+    "booking_id": "CNR9534222650",
+    "vehicle_type": "Auto",
+    "booking_value": 452
+  },
+  {
+    "booking_id": "CNR2221577375",
+    "vehicle_type": "Mini",
+    "booking_value": 820
+  },
+  {
+    "booking_id": "CNR5620738445",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 185
+  },
+  {
+    "booking_id": "CNR9669878708",
+    "vehicle_type": "Mini",
+    "booking_value": 356
+  },
+  {
+    "booking_id": "CNR7540714108",
+    "vehicle_type": "Auto",
+    "booking_value": 371
+  },
+  {
+    "booking_id": "CNR4287925213",
+    "vehicle_type": "Auto",
+    "booking_value": 839
+  },
+  {
+    "booking_id": "CNR7888329042",
+    "vehicle_type": "Mini",
+    "booking_value": 323
+  },
+  {
+    "booking_id": "CNR6806487234",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 430
+  },
+  {
+    "booking_id": "CNR7216115435",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2349
+  },
+  {
+    "booking_id": "CNR9915944696",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 357
+  },
+  {
+    "booking_id": "CNR7223501449",
+    "vehicle_type": "eBike",
+    "booking_value": 457
+  },
+  {
+    "booking_id": "CNR4406470427",
+    "vehicle_type": "eBike",
+    "booking_value": 647
+  },
+  {
+    "booking_id": "CNR9038889596",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 327
+  },
+  {
+    "booking_id": "CNR9013209895",
+    "vehicle_type": "Auto",
+    "booking_value": 396
+  },
+  {
+    "booking_id": "CNR4352340785",
+    "vehicle_type": "Bike",
+    "booking_value": 919
+  },
+  {
+    "booking_id": "CNR1137203739",
+    "vehicle_type": "eBike",
+    "booking_value": 426
+  },
+  {
+    "booking_id": "CNR6996941124",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 383
+  },
+  {
+    "booking_id": "CNR9048025511",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 661
+  },
+  {
+    "booking_id": "CNR6292190320",
+    "vehicle_type": "Auto",
+    "booking_value": 284
+  },
+  {
+    "booking_id": "CNR2413380100",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 619
+  },
+  {
+    "booking_id": "CNR3283888314",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 184
+  },
+  {
+    "booking_id": "CNR4870759138",
+    "vehicle_type": "Auto",
+    "booking_value": 604
+  },
+  {
+    "booking_id": "CNR9574365096",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2333
+  },
+  {
+    "booking_id": "CNR4918280677",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 176
+  },
+  {
+    "booking_id": "CNR9840599048",
+    "vehicle_type": "Mini",
+    "booking_value": 464
+  },
+  {
+    "booking_id": "CNR9712296008",
+    "vehicle_type": "Bike",
+    "booking_value": 251
+  },
+  {
+    "booking_id": "CNR5168755954",
+    "vehicle_type": "Auto",
+    "booking_value": 286
+  },
+  {
+    "booking_id": "CNR1558587936",
+    "vehicle_type": "Mini",
+    "booking_value": 217
+  },
+  {
+    "booking_id": "CNR9291782057",
+    "vehicle_type": "eBike",
+    "booking_value": 1762
+  },
+  {
+    "booking_id": "CNR6384000900",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 382
+  },
+  {
+    "booking_id": "CNR4692807656",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 165
+  },
+  {
+    "booking_id": "CNR8607774773",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 141
   },
   {
     "booking_id": "CNR5275953890",
     "vehicle_type": "Mini",
-    "booking_value": 2720,
-    "payment_method": "null"
+    "booking_value": 2720
+  },
+  {
+    "booking_id": "CNR2122926528",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 430
+  },
+  {
+    "booking_id": "CNR5058284180",
+    "vehicle_type": "Bike",
+    "booking_value": 252
+  },
+  {
+    "booking_id": "CNR1070278505",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 371
+  },
+  {
+    "booking_id": "CNR6383375515",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 183
+  },
+  {
+    "booking_id": "CNR9053616195",
+    "vehicle_type": "Auto",
+    "booking_value": 130
+  },
+  {
+    "booking_id": "CNR4411647638",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 974
+  },
+  {
+    "booking_id": "CNR4578602448",
+    "vehicle_type": "Bike",
+    "booking_value": 483
+  },
+  {
+    "booking_id": "CNR2117497349",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 142
+  },
+  {
+    "booking_id": "CNR3121675473",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 190
+  },
+  {
+    "booking_id": "CNR5582073597",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 606
+  },
+  {
+    "booking_id": "CNR9021997521",
+    "vehicle_type": "Auto",
+    "booking_value": 270
   },
   {
     "booking_id": "CNR2346546694",
     "vehicle_type": "Auto",
-    "booking_value": 2632,
-    "payment_method": "Cash"
+    "booking_value": 2632
+  },
+  {
+    "booking_id": "CNR7872750350",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 407
+  },
+  {
+    "booking_id": "CNR2822225922",
+    "vehicle_type": "Auto",
+    "booking_value": 288
+  },
+  {
+    "booking_id": "CNR3052613043",
+    "vehicle_type": "Auto",
+    "booking_value": 459
+  },
+  {
+    "booking_id": "CNR9714132894",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 474
+  },
+  {
+    "booking_id": "CNR7173736967",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 280
+  },
+  {
+    "booking_id": "CNR5680044164",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 241
+  },
+  {
+    "booking_id": "CNR7418923013",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 649
+  },
+  {
+    "booking_id": "CNR9766360557",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1648
+  },
+  {
+    "booking_id": "CNR3765893080",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 380
+  },
+  {
+    "booking_id": "CNR6724977743",
+    "vehicle_type": "eBike",
+    "booking_value": 145
+  },
+  {
+    "booking_id": "CNR6950899050",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 257
+  },
+  {
+    "booking_id": "CNR9718321676",
+    "vehicle_type": "Mini",
+    "booking_value": 177
+  },
+  {
+    "booking_id": "CNR3817464810",
+    "vehicle_type": "Auto",
+    "booking_value": 536
+  },
+  {
+    "booking_id": "CNR4848440972",
+    "vehicle_type": "Bike",
+    "booking_value": 1599
+  },
+  {
+    "booking_id": "CNR4113554550",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 214
+  },
+  {
+    "booking_id": "CNR2310105680",
+    "vehicle_type": "Mini",
+    "booking_value": 458
+  },
+  {
+    "booking_id": "CNR2766114291",
+    "vehicle_type": "Mini",
+    "booking_value": 752
+  },
+  {
+    "booking_id": "CNR9788555964",
+    "vehicle_type": "Bike",
+    "booking_value": 198
+  },
+  {
+    "booking_id": "CNR4117182129",
+    "vehicle_type": "eBike",
+    "booking_value": 692
+  },
+  {
+    "booking_id": "CNR1482862322",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 279
+  },
+  {
+    "booking_id": "CNR1846263435",
+    "vehicle_type": "Bike",
+    "booking_value": 433
+  },
+  {
+    "booking_id": "CNR9792857598",
+    "vehicle_type": "eBike",
+    "booking_value": 884
+  },
+  {
+    "booking_id": "CNR6364083080",
+    "vehicle_type": "eBike",
+    "booking_value": 1087
+  },
+  {
+    "booking_id": "CNR4132114126",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1058
+  },
+  {
+    "booking_id": "CNR1164297655",
+    "vehicle_type": "eBike",
+    "booking_value": 874
+  },
+  {
+    "booking_id": "CNR5107398570",
+    "vehicle_type": "eBike",
+    "booking_value": 900
+  },
+  {
+    "booking_id": "CNR2594649356",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 349
+  },
+  {
+    "booking_id": "CNR5513264155",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 350
+  },
+  {
+    "booking_id": "CNR7718204224",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 273
+  },
+  {
+    "booking_id": "CNR9884288938",
+    "vehicle_type": "Mini",
+    "booking_value": 819
+  },
+  {
+    "booking_id": "CNR8604114763",
+    "vehicle_type": "eBike",
+    "booking_value": 984
+  },
+  {
+    "booking_id": "CNR1648618375",
+    "vehicle_type": "Auto",
+    "booking_value": 918
+  },
+  {
+    "booking_id": "CNR3735646691",
+    "vehicle_type": "eBike",
+    "booking_value": 1393
+  },
+  {
+    "booking_id": "CNR5695161177",
+    "vehicle_type": "Bike",
+    "booking_value": 481
+  },
+  {
+    "booking_id": "CNR3701237012",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 446
+  },
+  {
+    "booking_id": "CNR7868829140",
+    "vehicle_type": "Mini",
+    "booking_value": 1134
+  },
+  {
+    "booking_id": "CNR9765471738",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR7650472214",
+    "vehicle_type": "Auto",
+    "booking_value": 395
+  },
+  {
+    "booking_id": "CNR4690250276",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 299
+  },
+  {
+    "booking_id": "CNR2095968467",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 111
+  },
+  {
+    "booking_id": "CNR3375761138",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 402
+  },
+  {
+    "booking_id": "CNR9481116440",
+    "vehicle_type": "Bike",
+    "booking_value": 473
+  },
+  {
+    "booking_id": "CNR8697339796",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 159
+  },
+  {
+    "booking_id": "CNR1206581017",
+    "vehicle_type": "Mini",
+    "booking_value": 140
+  },
+  {
+    "booking_id": "CNR4499128231",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 454
+  },
+  {
+    "booking_id": "CNR1298715434",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 321
+  },
+  {
+    "booking_id": "CNR4312763444",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 193
+  },
+  {
+    "booking_id": "CNR1340571019",
+    "vehicle_type": "eBike",
+    "booking_value": 463
+  },
+  {
+    "booking_id": "CNR6844091426",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 178
+  },
+  {
+    "booking_id": "CNR3741516922",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 272
+  },
+  {
+    "booking_id": "CNR6878633136",
+    "vehicle_type": "Bike",
+    "booking_value": 227
+  },
+  {
+    "booking_id": "CNR8389880405",
+    "vehicle_type": "eBike",
+    "booking_value": 235
+  },
+  {
+    "booking_id": "CNR1031164731",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 868
+  },
+  {
+    "booking_id": "CNR3055910851",
+    "vehicle_type": "Auto",
+    "booking_value": 174
+  },
+  {
+    "booking_id": "CNR3443143842",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 295
+  },
+  {
+    "booking_id": "CNR5284402721",
+    "vehicle_type": "Auto",
+    "booking_value": 135
+  },
+  {
+    "booking_id": "CNR8736272853",
+    "vehicle_type": "Auto",
+    "booking_value": 635
+  },
+  {
+    "booking_id": "CNR8526227100",
+    "vehicle_type": "eBike",
+    "booking_value": 401
+  },
+  {
+    "booking_id": "CNR2586256618",
+    "vehicle_type": "Auto",
+    "booking_value": 155
+  },
+  {
+    "booking_id": "CNR8718237542",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1676
+  },
+  {
+    "booking_id": "CNR4747588582",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 672
+  },
+  {
+    "booking_id": "CNR5372933060",
+    "vehicle_type": "Auto",
+    "booking_value": 263
+  },
+  {
+    "booking_id": "CNR3742047404",
+    "vehicle_type": "Bike",
+    "booking_value": 266
+  },
+  {
+    "booking_id": "CNR6451620987",
+    "vehicle_type": "Bike",
+    "booking_value": 230
   },
   {
     "booking_id": "CNR4349498244",
     "vehicle_type": "Auto",
-    "booking_value": 2972,
-    "payment_method": "Cash"
+    "booking_value": 2972
+  },
+  {
+    "booking_id": "CNR2064398038",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 354
+  },
+  {
+    "booking_id": "CNR4326236808",
+    "vehicle_type": "Bike",
+    "booking_value": 227
   },
   {
     "booking_id": "CNR8746895101",
     "vehicle_type": "Mini",
-    "booking_value": 2685,
-    "payment_method": "Credit Card"
+    "booking_value": 2685
+  },
+  {
+    "booking_id": "CNR2360764819",
+    "vehicle_type": "Auto",
+    "booking_value": 797
+  },
+  {
+    "booking_id": "CNR7413141901",
+    "vehicle_type": "Bike",
+    "booking_value": 229
+  },
+  {
+    "booking_id": "CNR7230620698",
+    "vehicle_type": "Auto",
+    "booking_value": 1997
+  },
+  {
+    "booking_id": "CNR6947093690",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 439
+  },
+  {
+    "booking_id": "CNR4790435059",
+    "vehicle_type": "Mini",
+    "booking_value": 456
+  },
+  {
+    "booking_id": "CNR3717431082",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1989
+  },
+  {
+    "booking_id": "CNR1119886411",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 449
+  },
+  {
+    "booking_id": "CNR7546954350",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 494
+  },
+  {
+    "booking_id": "CNR8681622859",
+    "vehicle_type": "Mini",
+    "booking_value": 158
+  },
+  {
+    "booking_id": "CNR3911087012",
+    "vehicle_type": "Mini",
+    "booking_value": 632
+  },
+  {
+    "booking_id": "CNR6657813538",
+    "vehicle_type": "eBike",
+    "booking_value": 190
+  },
+  {
+    "booking_id": "CNR8755664720",
+    "vehicle_type": "Mini",
+    "booking_value": 969
+  },
+  {
+    "booking_id": "CNR9271694901",
+    "vehicle_type": "Auto",
+    "booking_value": 300
+  },
+  {
+    "booking_id": "CNR6626953383",
+    "vehicle_type": "Auto",
+    "booking_value": 486
+  },
+  {
+    "booking_id": "CNR6410696298",
+    "vehicle_type": "eBike",
+    "booking_value": 434
+  },
+  {
+    "booking_id": "CNR3325610101",
+    "vehicle_type": "Mini",
+    "booking_value": 274
+  },
+  {
+    "booking_id": "CNR7162209765",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 240
+  },
+  {
+    "booking_id": "CNR6109622128",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 144
+  },
+  {
+    "booking_id": "CNR4421994853",
+    "vehicle_type": "Auto",
+    "booking_value": 364
+  },
+  {
+    "booking_id": "CNR1925768452",
+    "vehicle_type": "Auto",
+    "booking_value": 355
+  },
+  {
+    "booking_id": "CNR5648143504",
+    "vehicle_type": "Mini",
+    "booking_value": 466
+  },
+  {
+    "booking_id": "CNR8115262014",
+    "vehicle_type": "Auto",
+    "booking_value": 562
+  },
+  {
+    "booking_id": "CNR7823516770",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 804
+  },
+  {
+    "booking_id": "CNR8493356788",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 767
+  },
+  {
+    "booking_id": "CNR3058067820",
+    "vehicle_type": "Mini",
+    "booking_value": 152
+  },
+  {
+    "booking_id": "CNR4333147707",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 804
+  },
+  {
+    "booking_id": "CNR8641512493",
+    "vehicle_type": "Bike",
+    "booking_value": 408
+  },
+  {
+    "booking_id": "CNR3403243453",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 542
+  },
+  {
+    "booking_id": "CNR7546460644",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 474
+  },
+  {
+    "booking_id": "CNR8208143819",
+    "vehicle_type": "Auto",
+    "booking_value": 226
+  },
+  {
+    "booking_id": "CNR3158442253",
+    "vehicle_type": "Auto",
+    "booking_value": 350
+  },
+  {
+    "booking_id": "CNR1865369186",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 332
+  },
+  {
+    "booking_id": "CNR7198075514",
+    "vehicle_type": "eBike",
+    "booking_value": 322
+  },
+  {
+    "booking_id": "CNR5894031971",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 860
+  },
+  {
+    "booking_id": "CNR6369935063",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 991
+  },
+  {
+    "booking_id": "CNR6302101502",
+    "vehicle_type": "Bike",
+    "booking_value": 253
+  },
+  {
+    "booking_id": "CNR6911635936",
+    "vehicle_type": "Auto",
+    "booking_value": 493
+  },
+  {
+    "booking_id": "CNR8210949729",
+    "vehicle_type": "Bike",
+    "booking_value": 499
+  },
+  {
+    "booking_id": "CNR7389837544",
+    "vehicle_type": "Auto",
+    "booking_value": 759
+  },
+  {
+    "booking_id": "CNR3731051841",
+    "vehicle_type": "Bike",
+    "booking_value": 425
+  },
+  {
+    "booking_id": "CNR5069047408",
+    "vehicle_type": "Auto",
+    "booking_value": 441
+  },
+  {
+    "booking_id": "CNR5118920286",
+    "vehicle_type": "Auto",
+    "booking_value": 184
+  },
+  {
+    "booking_id": "CNR2162091754",
+    "vehicle_type": "Mini",
+    "booking_value": 492
+  },
+  {
+    "booking_id": "CNR7922694663",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 651
+  },
+  {
+    "booking_id": "CNR1440190398",
+    "vehicle_type": "Auto",
+    "booking_value": 599
+  },
+  {
+    "booking_id": "CNR2463579135",
+    "vehicle_type": "Bike",
+    "booking_value": 142
+  },
+  {
+    "booking_id": "CNR3005238846",
+    "vehicle_type": "Bike",
+    "booking_value": 688
+  },
+  {
+    "booking_id": "CNR3639188731",
+    "vehicle_type": "Auto",
+    "booking_value": 290
+  },
+  {
+    "booking_id": "CNR2618079867",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 419
+  },
+  {
+    "booking_id": "CNR1823340719",
+    "vehicle_type": "Auto",
+    "booking_value": 118
+  },
+  {
+    "booking_id": "CNR3224413667",
+    "vehicle_type": "Auto",
+    "booking_value": 484
+  },
+  {
+    "booking_id": "CNR1662872056",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 265
+  },
+  {
+    "booking_id": "CNR8474959161",
+    "vehicle_type": "Auto",
+    "booking_value": 1085
+  },
+  {
+    "booking_id": "CNR9464678541",
+    "vehicle_type": "Mini",
+    "booking_value": 182
+  },
+  {
+    "booking_id": "CNR4260523467",
+    "vehicle_type": "Mini",
+    "booking_value": 329
+  },
+  {
+    "booking_id": "CNR6403385683",
+    "vehicle_type": "Bike",
+    "booking_value": 773
+  },
+  {
+    "booking_id": "CNR7814938683",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 327
+  },
+  {
+    "booking_id": "CNR1712617455",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2014
+  },
+  {
+    "booking_id": "CNR8920430538",
+    "vehicle_type": "Auto",
+    "booking_value": 389
+  },
+  {
+    "booking_id": "CNR8841115671",
+    "vehicle_type": "Bike",
+    "booking_value": 282
+  },
+  {
+    "booking_id": "CNR4144729650",
+    "vehicle_type": "eBike",
+    "booking_value": 399
+  },
+  {
+    "booking_id": "CNR6364213258",
+    "vehicle_type": "Bike",
+    "booking_value": 492
   },
   {
     "booking_id": "CNR6380779912",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2831,
-    "payment_method": "UPI"
+    "booking_value": 2831
+  },
+  {
+    "booking_id": "CNR8293602916",
+    "vehicle_type": "Mini",
+    "booking_value": 727
+  },
+  {
+    "booking_id": "CNR7353679246",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 121
+  },
+  {
+    "booking_id": "CNR2146557832",
+    "vehicle_type": "Auto",
+    "booking_value": 1840
+  },
+  {
+    "booking_id": "CNR9974484741",
+    "vehicle_type": "eBike",
+    "booking_value": 160
+  },
+  {
+    "booking_id": "CNR5750959004",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 684
+  },
+  {
+    "booking_id": "CNR4140489225",
+    "vehicle_type": "Mini",
+    "booking_value": 476
+  },
+  {
+    "booking_id": "CNR3159364886",
+    "vehicle_type": "Bike",
+    "booking_value": 807
+  },
+  {
+    "booking_id": "CNR1706788157",
+    "vehicle_type": "Auto",
+    "booking_value": 265
+  },
+  {
+    "booking_id": "CNR9729764088",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 223
   },
   {
     "booking_id": "CNR3421104979",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2502,
-    "payment_method": "Cash"
+    "booking_value": 2502
+  },
+  {
+    "booking_id": "CNR3618379292",
+    "vehicle_type": "Bike",
+    "booking_value": 336
+  },
+  {
+    "booking_id": "CNR1546777623",
+    "vehicle_type": "Bike",
+    "booking_value": 137
+  },
+  {
+    "booking_id": "CNR5188104114",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 133
+  },
+  {
+    "booking_id": "CNR4857234799",
+    "vehicle_type": "Auto",
+    "booking_value": 522
+  },
+  {
+    "booking_id": "CNR4214533446",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 131
+  },
+  {
+    "booking_id": "CNR7300374393",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 832
+  },
+  {
+    "booking_id": "CNR4890691509",
+    "vehicle_type": "Mini",
+    "booking_value": 1302
+  },
+  {
+    "booking_id": "CNR6901751755",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 454
+  },
+  {
+    "booking_id": "CNR5205634299",
+    "vehicle_type": "Auto",
+    "booking_value": 330
+  },
+  {
+    "booking_id": "CNR6590762339",
+    "vehicle_type": "eBike",
+    "booking_value": 293
+  },
+  {
+    "booking_id": "CNR9674154203",
+    "vehicle_type": "Bike",
+    "booking_value": 132
+  },
+  {
+    "booking_id": "CNR1534193305",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 388
+  },
+  {
+    "booking_id": "CNR4411487644",
+    "vehicle_type": "Auto",
+    "booking_value": 206
+  },
+  {
+    "booking_id": "CNR3606043825",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 347
+  },
+  {
+    "booking_id": "CNR2392401040",
+    "vehicle_type": "eBike",
+    "booking_value": 357
+  },
+  {
+    "booking_id": "CNR2080883589",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 132
+  },
+  {
+    "booking_id": "CNR6324229338",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 235
+  },
+  {
+    "booking_id": "CNR3227543701",
+    "vehicle_type": "Mini",
+    "booking_value": 685
+  },
+  {
+    "booking_id": "CNR7913744835",
+    "vehicle_type": "Auto",
+    "booking_value": 447
+  },
+  {
+    "booking_id": "CNR9277043549",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2164
+  },
+  {
+    "booking_id": "CNR8250194343",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 569
+  },
+  {
+    "booking_id": "CNR8196586408",
+    "vehicle_type": "eBike",
+    "booking_value": 616
+  },
+  {
+    "booking_id": "CNR2756747829",
+    "vehicle_type": "Bike",
+    "booking_value": 144
+  },
+  {
+    "booking_id": "CNR5418361098",
+    "vehicle_type": "Bike",
+    "booking_value": 309
+  },
+  {
+    "booking_id": "CNR1233339240",
+    "vehicle_type": "Auto",
+    "booking_value": 756
   },
   {
     "booking_id": "CNR8214388305",
     "vehicle_type": "eBike",
-    "booking_value": 2897,
-    "payment_method": "null"
+    "booking_value": 2897
+  },
+  {
+    "booking_id": "CNR1812589665",
+    "vehicle_type": "eBike",
+    "booking_value": 1134
+  },
+  {
+    "booking_id": "CNR3723057445",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 485
   },
   {
     "booking_id": "CNR7472625477",
     "vehicle_type": "Bike",
-    "booking_value": 2530,
-    "payment_method": "Cash"
+    "booking_value": 2530
+  },
+  {
+    "booking_id": "CNR8411142564",
+    "vehicle_type": "eBike",
+    "booking_value": 483
   },
   {
     "booking_id": "CNR9662810137",
     "vehicle_type": "Mini",
-    "booking_value": 2543,
-    "payment_method": "null"
+    "booking_value": 2543
+  },
+  {
+    "booking_id": "CNR5096952654",
+    "vehicle_type": "Bike",
+    "booking_value": 458
+  },
+  {
+    "booking_id": "CNR5545242025",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 368
+  },
+  {
+    "booking_id": "CNR2742896161",
+    "vehicle_type": "eBike",
+    "booking_value": 624
+  },
+  {
+    "booking_id": "CNR7179865067",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 170
+  },
+  {
+    "booking_id": "CNR3243529045",
+    "vehicle_type": "Mini",
+    "booking_value": 385
+  },
+  {
+    "booking_id": "CNR6936928908",
+    "vehicle_type": "Mini",
+    "booking_value": 460
+  },
+  {
+    "booking_id": "CNR7110942320",
+    "vehicle_type": "Bike",
+    "booking_value": 172
+  },
+  {
+    "booking_id": "CNR5862489091",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 369
+  },
+  {
+    "booking_id": "CNR7321725592",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 957
+  },
+  {
+    "booking_id": "CNR7849718347",
+    "vehicle_type": "Bike",
+    "booking_value": 161
+  },
+  {
+    "booking_id": "CNR7192848755",
+    "vehicle_type": "Mini",
+    "booking_value": 449
+  },
+  {
+    "booking_id": "CNR7890296921",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 907
+  },
+  {
+    "booking_id": "CNR6341156201",
+    "vehicle_type": "eBike",
+    "booking_value": 348
+  },
+  {
+    "booking_id": "CNR3751993347",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 356
+  },
+  {
+    "booking_id": "CNR2863585871",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 754
+  },
+  {
+    "booking_id": "CNR5020328609",
+    "vehicle_type": "Auto",
+    "booking_value": 443
+  },
+  {
+    "booking_id": "CNR6368175462",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 425
+  },
+  {
+    "booking_id": "CNR6073374236",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 558
+  },
+  {
+    "booking_id": "CNR3706067948",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 126
+  },
+  {
+    "booking_id": "CNR5877891823",
+    "vehicle_type": "Bike",
+    "booking_value": 242
+  },
+  {
+    "booking_id": "CNR7617825566",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 267
+  },
+  {
+    "booking_id": "CNR5229950762",
+    "vehicle_type": "Mini",
+    "booking_value": 882
+  },
+  {
+    "booking_id": "CNR8557853690",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 817
+  },
+  {
+    "booking_id": "CNR2959210819",
+    "vehicle_type": "Auto",
+    "booking_value": 192
+  },
+  {
+    "booking_id": "CNR5007642626",
+    "vehicle_type": "Mini",
+    "booking_value": 104
+  },
+  {
+    "booking_id": "CNR4151362962",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 104
   },
   {
     "booking_id": "CNR6975711167",
     "vehicle_type": "Bike",
-    "booking_value": 2959,
-    "payment_method": "Cash"
+    "booking_value": 2959
+  },
+  {
+    "booking_id": "CNR6686267850",
+    "vehicle_type": "Bike",
+    "booking_value": 696
+  },
+  {
+    "booking_id": "CNR6291097394",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 934
+  },
+  {
+    "booking_id": "CNR4999358510",
+    "vehicle_type": "Auto",
+    "booking_value": 1205
+  },
+  {
+    "booking_id": "CNR5679157395",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 433
+  },
+  {
+    "booking_id": "CNR5055185978",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 305
+  },
+  {
+    "booking_id": "CNR1336121712",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 415
+  },
+  {
+    "booking_id": "CNR1939110893",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 921
+  },
+  {
+    "booking_id": "CNR1349213662",
+    "vehicle_type": "Auto",
+    "booking_value": 344
+  },
+  {
+    "booking_id": "CNR7058285881",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 375
+  },
+  {
+    "booking_id": "CNR1721938125",
+    "vehicle_type": "Auto",
+    "booking_value": 172
+  },
+  {
+    "booking_id": "CNR5513446260",
+    "vehicle_type": "Mini",
+    "booking_value": 519
+  },
+  {
+    "booking_id": "CNR5054900051",
+    "vehicle_type": "Auto",
+    "booking_value": 106
+  },
+  {
+    "booking_id": "CNR4894350601",
+    "vehicle_type": "Auto",
+    "booking_value": 239
+  },
+  {
+    "booking_id": "CNR8182554947",
+    "vehicle_type": "eBike",
+    "booking_value": 512
+  },
+  {
+    "booking_id": "CNR7342690568",
+    "vehicle_type": "eBike",
+    "booking_value": 408
+  },
+  {
+    "booking_id": "CNR3775922700",
+    "vehicle_type": "eBike",
+    "booking_value": 122
+  },
+  {
+    "booking_id": "CNR6878689002",
+    "vehicle_type": "Auto",
+    "booking_value": 226
+  },
+  {
+    "booking_id": "CNR9260570071",
+    "vehicle_type": "eBike",
+    "booking_value": 1447
   },
   {
     "booking_id": "CNR5670521311",
     "vehicle_type": "Auto",
-    "booking_value": 2693,
-    "payment_method": "UPI"
+    "booking_value": 2693
+  },
+  {
+    "booking_id": "CNR1568412559",
+    "vehicle_type": "eBike",
+    "booking_value": 710
+  },
+  {
+    "booking_id": "CNR1970008780",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 223
+  },
+  {
+    "booking_id": "CNR4035650388",
+    "vehicle_type": "eBike",
+    "booking_value": 454
+  },
+  {
+    "booking_id": "CNR1057603341",
+    "vehicle_type": "Auto",
+    "booking_value": 210
   },
   {
     "booking_id": "CNR8469609801",
     "vehicle_type": "Bike",
-    "booking_value": 2914,
-    "payment_method": "null"
+    "booking_value": 2914
+  },
+  {
+    "booking_id": "CNR5096653518",
+    "vehicle_type": "Bike",
+    "booking_value": 233
+  },
+  {
+    "booking_id": "CNR5552215261",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 736
+  },
+  {
+    "booking_id": "CNR2419853484",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 851
+  },
+  {
+    "booking_id": "CNR2922041929",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 121
+  },
+  {
+    "booking_id": "CNR6083325983",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 869
+  },
+  {
+    "booking_id": "CNR7713197366",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 307
+  },
+  {
+    "booking_id": "CNR9649352711",
+    "vehicle_type": "Auto",
+    "booking_value": 256
+  },
+  {
+    "booking_id": "CNR2527895867",
+    "vehicle_type": "eBike",
+    "booking_value": 163
+  },
+  {
+    "booking_id": "CNR8364233070",
+    "vehicle_type": "Bike",
+    "booking_value": 456
+  },
+  {
+    "booking_id": "CNR8219845742",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 124
+  },
+  {
+    "booking_id": "CNR3429234161",
+    "vehicle_type": "Auto",
+    "booking_value": 125
+  },
+  {
+    "booking_id": "CNR1055750005",
+    "vehicle_type": "Bike",
+    "booking_value": 285
+  },
+  {
+    "booking_id": "CNR6942947631",
+    "vehicle_type": "Mini",
+    "booking_value": 786
+  },
+  {
+    "booking_id": "CNR3717615082",
+    "vehicle_type": "Mini",
+    "booking_value": 208
+  },
+  {
+    "booking_id": "CNR7633615180",
+    "vehicle_type": "Auto",
+    "booking_value": 320
+  },
+  {
+    "booking_id": "CNR6216055901",
+    "vehicle_type": "Bike",
+    "booking_value": 2047
+  },
+  {
+    "booking_id": "CNR1462378973",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 471
+  },
+  {
+    "booking_id": "CNR1359774543",
+    "vehicle_type": "Auto",
+    "booking_value": 326
+  },
+  {
+    "booking_id": "CNR9783164551",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 268
+  },
+  {
+    "booking_id": "CNR1463245086",
+    "vehicle_type": "Auto",
+    "booking_value": 166
+  },
+  {
+    "booking_id": "CNR4960250500",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 208
+  },
+  {
+    "booking_id": "CNR9893681647",
+    "vehicle_type": "Mini",
+    "booking_value": 2030
+  },
+  {
+    "booking_id": "CNR4494610102",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 205
+  },
+  {
+    "booking_id": "CNR6966038145",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 118
+  },
+  {
+    "booking_id": "CNR8270348750",
+    "vehicle_type": "Mini",
+    "booking_value": 2456
+  },
+  {
+    "booking_id": "CNR5576505999",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 304
+  },
+  {
+    "booking_id": "CNR8961902697",
+    "vehicle_type": "eBike",
+    "booking_value": 487
+  },
+  {
+    "booking_id": "CNR6448570562",
+    "vehicle_type": "Auto",
+    "booking_value": 211
+  },
+  {
+    "booking_id": "CNR3555437259",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR9501656105",
+    "vehicle_type": "Auto",
+    "booking_value": 554
   },
   {
     "booking_id": "CNR5610688312",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2755,
-    "payment_method": "null"
+    "booking_value": 2755
+  },
+  {
+    "booking_id": "CNR5547698113",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 831
+  },
+  {
+    "booking_id": "CNR6227763125",
+    "vehicle_type": "Bike",
+    "booking_value": 195
+  },
+  {
+    "booking_id": "CNR2562034569",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 157
+  },
+  {
+    "booking_id": "CNR2278304991",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 377
+  },
+  {
+    "booking_id": "CNR4517229806",
+    "vehicle_type": "Mini",
+    "booking_value": 407
+  },
+  {
+    "booking_id": "CNR7570068253",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 446
+  },
+  {
+    "booking_id": "CNR4708737343",
+    "vehicle_type": "Bike",
+    "booking_value": 456
+  },
+  {
+    "booking_id": "CNR9895887673",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2167
+  },
+  {
+    "booking_id": "CNR7551375384",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 120
+  },
+  {
+    "booking_id": "CNR4758490593",
+    "vehicle_type": "Bike",
+    "booking_value": 256
+  },
+  {
+    "booking_id": "CNR2653367578",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 634
+  },
+  {
+    "booking_id": "CNR4928182018",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 512
+  },
+  {
+    "booking_id": "CNR4876684089",
+    "vehicle_type": "Bike",
+    "booking_value": 431
+  },
+  {
+    "booking_id": "CNR3618852886",
+    "vehicle_type": "eBike",
+    "booking_value": 597
+  },
+  {
+    "booking_id": "CNR1490750220",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 250
+  },
+  {
+    "booking_id": "CNR4096066407",
+    "vehicle_type": "Auto",
+    "booking_value": 344
+  },
+  {
+    "booking_id": "CNR1653140972",
+    "vehicle_type": "Mini",
+    "booking_value": 292
+  },
+  {
+    "booking_id": "CNR2256576201",
+    "vehicle_type": "Mini",
+    "booking_value": 467
+  },
+  {
+    "booking_id": "CNR9209421238",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 200
+  },
+  {
+    "booking_id": "CNR4592321965",
+    "vehicle_type": "Bike",
+    "booking_value": 165
+  },
+  {
+    "booking_id": "CNR5953922226",
+    "vehicle_type": "eBike",
+    "booking_value": 406
+  },
+  {
+    "booking_id": "CNR7175214991",
+    "vehicle_type": "Auto",
+    "booking_value": 1674
+  },
+  {
+    "booking_id": "CNR4533288786",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 497
+  },
+  {
+    "booking_id": "CNR6287078401",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 441
+  },
+  {
+    "booking_id": "CNR1677702868",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 650
+  },
+  {
+    "booking_id": "CNR1620238016",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 285
+  },
+  {
+    "booking_id": "CNR1243032326",
+    "vehicle_type": "Bike",
+    "booking_value": 539
+  },
+  {
+    "booking_id": "CNR1802478934",
+    "vehicle_type": "Bike",
+    "booking_value": 245
+  },
+  {
+    "booking_id": "CNR5444032091",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 196
+  },
+  {
+    "booking_id": "CNR2565337051",
+    "vehicle_type": "eBike",
+    "booking_value": 493
+  },
+  {
+    "booking_id": "CNR2347503147",
+    "vehicle_type": "Auto",
+    "booking_value": 304
+  },
+  {
+    "booking_id": "CNR5204595843",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 106
+  },
+  {
+    "booking_id": "CNR4047703442",
+    "vehicle_type": "Bike",
+    "booking_value": 264
+  },
+  {
+    "booking_id": "CNR9420282397",
+    "vehicle_type": "Bike",
+    "booking_value": 1491
+  },
+  {
+    "booking_id": "CNR8218067626",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 778
+  },
+  {
+    "booking_id": "CNR1631802029",
+    "vehicle_type": "eBike",
+    "booking_value": 261
+  },
+  {
+    "booking_id": "CNR1928120063",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 126
+  },
+  {
+    "booking_id": "CNR1051974261",
+    "vehicle_type": "Bike",
+    "booking_value": 334
+  },
+  {
+    "booking_id": "CNR6765539373",
+    "vehicle_type": "eBike",
+    "booking_value": 255
+  },
+  {
+    "booking_id": "CNR9850054116",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 2151
+  },
+  {
+    "booking_id": "CNR5904853433",
+    "vehicle_type": "Bike",
+    "booking_value": 399
+  },
+  {
+    "booking_id": "CNR4775903403",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 107
+  },
+  {
+    "booking_id": "CNR4361441478",
+    "vehicle_type": "Mini",
+    "booking_value": 1388
+  },
+  {
+    "booking_id": "CNR6807144951",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 850
+  },
+  {
+    "booking_id": "CNR5395711974",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 506
+  },
+  {
+    "booking_id": "CNR5646234144",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 392
+  },
+  {
+    "booking_id": "CNR1194272169",
+    "vehicle_type": "Auto",
+    "booking_value": 501
+  },
+  {
+    "booking_id": "CNR3990932464",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 672
+  },
+  {
+    "booking_id": "CNR3264747863",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 334
+  },
+  {
+    "booking_id": "CNR6872971058",
+    "vehicle_type": "Auto",
+    "booking_value": 919
+  },
+  {
+    "booking_id": "CNR5756643151",
+    "vehicle_type": "Bike",
+    "booking_value": 137
   },
   {
     "booking_id": "CNR3994853879",
     "vehicle_type": "Auto",
-    "booking_value": 2533,
-    "payment_method": "UPI"
+    "booking_value": 2533
+  },
+  {
+    "booking_id": "CNR9798647446",
+    "vehicle_type": "Mini",
+    "booking_value": 385
+  },
+  {
+    "booking_id": "CNR4587303652",
+    "vehicle_type": "eBike",
+    "booking_value": 437
+  },
+  {
+    "booking_id": "CNR8691190116",
+    "vehicle_type": "Mini",
+    "booking_value": 159
+  },
+  {
+    "booking_id": "CNR5458976209",
+    "vehicle_type": "Mini",
+    "booking_value": 166
+  },
+  {
+    "booking_id": "CNR2896911803",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 259
+  },
+  {
+    "booking_id": "CNR2579133731",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 274
+  },
+  {
+    "booking_id": "CNR1792271245",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 176
+  },
+  {
+    "booking_id": "CNR3734593853",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 208
+  },
+  {
+    "booking_id": "CNR4364490005",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 478
+  },
+  {
+    "booking_id": "CNR2446147454",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 256
+  },
+  {
+    "booking_id": "CNR6063950044",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 889
+  },
+  {
+    "booking_id": "CNR2334343923",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 360
+  },
+  {
+    "booking_id": "CNR6465071206",
+    "vehicle_type": "eBike",
+    "booking_value": 166
+  },
+  {
+    "booking_id": "CNR2974281233",
+    "vehicle_type": "eBike",
+    "booking_value": 311
+  },
+  {
+    "booking_id": "CNR5378647009",
+    "vehicle_type": "Mini",
+    "booking_value": 1405
+  },
+  {
+    "booking_id": "CNR1659728933",
+    "vehicle_type": "eBike",
+    "booking_value": 351
+  },
+  {
+    "booking_id": "CNR4081628445",
+    "vehicle_type": "eBike",
+    "booking_value": 870
+  },
+  {
+    "booking_id": "CNR4521833743",
+    "vehicle_type": "eBike",
+    "booking_value": 283
+  },
+  {
+    "booking_id": "CNR3378353049",
+    "vehicle_type": "Auto",
+    "booking_value": 542
+  },
+  {
+    "booking_id": "CNR3716461813",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 470
+  },
+  {
+    "booking_id": "CNR8610164424",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 749
+  },
+  {
+    "booking_id": "CNR7877434148",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 790
+  },
+  {
+    "booking_id": "CNR2072040726",
+    "vehicle_type": "Mini",
+    "booking_value": 147
+  },
+  {
+    "booking_id": "CNR9707263640",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 320
+  },
+  {
+    "booking_id": "CNR9995395962",
+    "vehicle_type": "Bike",
+    "booking_value": 204
+  },
+  {
+    "booking_id": "CNR2906215485",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 169
+  },
+  {
+    "booking_id": "CNR8491582427",
+    "vehicle_type": "Mini",
+    "booking_value": 654
+  },
+  {
+    "booking_id": "CNR6313310701",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 972
+  },
+  {
+    "booking_id": "CNR9144799055",
+    "vehicle_type": "Mini",
+    "booking_value": 242
+  },
+  {
+    "booking_id": "CNR9598418860",
+    "vehicle_type": "Bike",
+    "booking_value": 242
+  },
+  {
+    "booking_id": "CNR3533232800",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 129
+  },
+  {
+    "booking_id": "CNR8085637694",
+    "vehicle_type": "Bike",
+    "booking_value": 110
+  },
+  {
+    "booking_id": "CNR3845063968",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1335
+  },
+  {
+    "booking_id": "CNR7097090401",
+    "vehicle_type": "eBike",
+    "booking_value": 325
+  },
+  {
+    "booking_id": "CNR6385345784",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 280
+  },
+  {
+    "booking_id": "CNR7864924467",
+    "vehicle_type": "eBike",
+    "booking_value": 935
+  },
+  {
+    "booking_id": "CNR5228786960",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 476
+  },
+  {
+    "booking_id": "CNR8975064339",
+    "vehicle_type": "Mini",
+    "booking_value": 306
+  },
+  {
+    "booking_id": "CNR2443937320",
+    "vehicle_type": "Auto",
+    "booking_value": 152
+  },
+  {
+    "booking_id": "CNR5510700209",
+    "vehicle_type": "eBike",
+    "booking_value": 324
+  },
+  {
+    "booking_id": "CNR7083946242",
+    "vehicle_type": "Auto",
+    "booking_value": 120
+  },
+  {
+    "booking_id": "CNR4070293265",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 973
+  },
+  {
+    "booking_id": "CNR1881695643",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 236
+  },
+  {
+    "booking_id": "CNR9591302253",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 361
+  },
+  {
+    "booking_id": "CNR4942877615",
+    "vehicle_type": "Mini",
+    "booking_value": 328
+  },
+  {
+    "booking_id": "CNR3373281151",
+    "vehicle_type": "eBike",
+    "booking_value": 416
+  },
+  {
+    "booking_id": "CNR4916106094",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 342
+  },
+  {
+    "booking_id": "CNR5057129086",
+    "vehicle_type": "Mini",
+    "booking_value": 232
+  },
+  {
+    "booking_id": "CNR9939051498",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 589
+  },
+  {
+    "booking_id": "CNR8853165726",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 217
+  },
+  {
+    "booking_id": "CNR2763341838",
+    "vehicle_type": "eBike",
+    "booking_value": 2333
+  },
+  {
+    "booking_id": "CNR9379438076",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 155
+  },
+  {
+    "booking_id": "CNR1084583787",
+    "vehicle_type": "Bike",
+    "booking_value": 367
+  },
+  {
+    "booking_id": "CNR9777006735",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 360
+  },
+  {
+    "booking_id": "CNR2386888055",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 323
+  },
+  {
+    "booking_id": "CNR1572931585",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1440
+  },
+  {
+    "booking_id": "CNR6782903597",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 407
+  },
+  {
+    "booking_id": "CNR9209654253",
+    "vehicle_type": "Auto",
+    "booking_value": 510
+  },
+  {
+    "booking_id": "CNR5833449234",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 699
+  },
+  {
+    "booking_id": "CNR9813628346",
+    "vehicle_type": "Auto",
+    "booking_value": 364
+  },
+  {
+    "booking_id": "CNR9585908745",
+    "vehicle_type": "Auto",
+    "booking_value": 328
+  },
+  {
+    "booking_id": "CNR5082578432",
+    "vehicle_type": "Bike",
+    "booking_value": 122
+  },
+  {
+    "booking_id": "CNR4102372002",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 339
+  },
+  {
+    "booking_id": "CNR3160284918",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 2261
+  },
+  {
+    "booking_id": "CNR7927516464",
+    "vehicle_type": "Auto",
+    "booking_value": 583
+  },
+  {
+    "booking_id": "CNR1978473440",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 381
+  },
+  {
+    "booking_id": "CNR9405662290",
+    "vehicle_type": "Bike",
+    "booking_value": 2074
+  },
+  {
+    "booking_id": "CNR6685863254",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1976
+  },
+  {
+    "booking_id": "CNR6872811335",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 300
+  },
+  {
+    "booking_id": "CNR8536703586",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 257
+  },
+  {
+    "booking_id": "CNR6650070370",
+    "vehicle_type": "Auto",
+    "booking_value": 212
+  },
+  {
+    "booking_id": "CNR5251681205",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 481
+  },
+  {
+    "booking_id": "CNR2416157696",
+    "vehicle_type": "eBike",
+    "booking_value": 2033
+  },
+  {
+    "booking_id": "CNR3816729961",
+    "vehicle_type": "Mini",
+    "booking_value": 379
+  },
+  {
+    "booking_id": "CNR8716642152",
+    "vehicle_type": "Auto",
+    "booking_value": 428
+  },
+  {
+    "booking_id": "CNR2307213582",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 479
+  },
+  {
+    "booking_id": "CNR5783886723",
+    "vehicle_type": "Auto",
+    "booking_value": 472
+  },
+  {
+    "booking_id": "CNR5998798233",
+    "vehicle_type": "Mini",
+    "booking_value": 337
+  },
+  {
+    "booking_id": "CNR8159449742",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 295
+  },
+  {
+    "booking_id": "CNR2253645053",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 344
+  },
+  {
+    "booking_id": "CNR4758410554",
+    "vehicle_type": "eBike",
+    "booking_value": 241
+  },
+  {
+    "booking_id": "CNR6700533888",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 617
+  },
+  {
+    "booking_id": "CNR5560334699",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 334
+  },
+  {
+    "booking_id": "CNR5522725338",
+    "vehicle_type": "Bike",
+    "booking_value": 136
+  },
+  {
+    "booking_id": "CNR8462072590",
+    "vehicle_type": "Mini",
+    "booking_value": 343
+  },
+  {
+    "booking_id": "CNR3870146324",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 380
+  },
+  {
+    "booking_id": "CNR4540787271",
+    "vehicle_type": "eBike",
+    "booking_value": 493
+  },
+  {
+    "booking_id": "CNR6000857955",
+    "vehicle_type": "Bike",
+    "booking_value": 461
+  },
+  {
+    "booking_id": "CNR1369081867",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 926
+  },
+  {
+    "booking_id": "CNR8549359593",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 279
+  },
+  {
+    "booking_id": "CNR1974423704",
+    "vehicle_type": "eBike",
+    "booking_value": 2271
+  },
+  {
+    "booking_id": "CNR4115750033",
+    "vehicle_type": "Auto",
+    "booking_value": 392
+  },
+  {
+    "booking_id": "CNR7796301724",
+    "vehicle_type": "Auto",
+    "booking_value": 239
+  },
+  {
+    "booking_id": "CNR3508357548",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 347
+  },
+  {
+    "booking_id": "CNR2169578921",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 425
+  },
+  {
+    "booking_id": "CNR5628102327",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 332
+  },
+  {
+    "booking_id": "CNR9379467839",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 290
+  },
+  {
+    "booking_id": "CNR3676694382",
+    "vehicle_type": "Bike",
+    "booking_value": 164
+  },
+  {
+    "booking_id": "CNR4811907422",
+    "vehicle_type": "Auto",
+    "booking_value": 511
+  },
+  {
+    "booking_id": "CNR1428907843",
+    "vehicle_type": "Bike",
+    "booking_value": 354
+  },
+  {
+    "booking_id": "CNR8342081429",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 602
+  },
+  {
+    "booking_id": "CNR2787534888",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 854
+  },
+  {
+    "booking_id": "CNR7195603696",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 267
+  },
+  {
+    "booking_id": "CNR5498927227",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 164
+  },
+  {
+    "booking_id": "CNR4048062503",
+    "vehicle_type": "eBike",
+    "booking_value": 335
+  },
+  {
+    "booking_id": "CNR2054127194",
+    "vehicle_type": "eBike",
+    "booking_value": 176
+  },
+  {
+    "booking_id": "CNR7332641221",
+    "vehicle_type": "Auto",
+    "booking_value": 438
+  },
+  {
+    "booking_id": "CNR8803996047",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 812
+  },
+  {
+    "booking_id": "CNR5306184872",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 435
+  },
+  {
+    "booking_id": "CNR6222821456",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 624
+  },
+  {
+    "booking_id": "CNR7040413561",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 170
+  },
+  {
+    "booking_id": "CNR3973889273",
+    "vehicle_type": "eBike",
+    "booking_value": 613
+  },
+  {
+    "booking_id": "CNR3944191068",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 500
+  },
+  {
+    "booking_id": "CNR1346399700",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 400
+  },
+  {
+    "booking_id": "CNR3229283917",
+    "vehicle_type": "eBike",
+    "booking_value": 303
+  },
+  {
+    "booking_id": "CNR7352918754",
+    "vehicle_type": "eBike",
+    "booking_value": 679
+  },
+  {
+    "booking_id": "CNR2500917132",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 798
+  },
+  {
+    "booking_id": "CNR8065183387",
+    "vehicle_type": "eBike",
+    "booking_value": 110
+  },
+  {
+    "booking_id": "CNR6134754007",
+    "vehicle_type": "Bike",
+    "booking_value": 372
+  },
+  {
+    "booking_id": "CNR9145139559",
+    "vehicle_type": "eBike",
+    "booking_value": 455
+  },
+  {
+    "booking_id": "CNR7264508594",
+    "vehicle_type": "Bike",
+    "booking_value": 409
+  },
+  {
+    "booking_id": "CNR2982053933",
+    "vehicle_type": "Auto",
+    "booking_value": 264
+  },
+  {
+    "booking_id": "CNR2512210226",
+    "vehicle_type": "Mini",
+    "booking_value": 449
+  },
+  {
+    "booking_id": "CNR8763891601",
+    "vehicle_type": "Bike",
+    "booking_value": 256
+  },
+  {
+    "booking_id": "CNR9795691796",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 378
+  },
+  {
+    "booking_id": "CNR9708665715",
+    "vehicle_type": "eBike",
+    "booking_value": 823
+  },
+  {
+    "booking_id": "CNR1642367736",
+    "vehicle_type": "eBike",
+    "booking_value": 210
+  },
+  {
+    "booking_id": "CNR9142941599",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 463
+  },
+  {
+    "booking_id": "CNR3650602175",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 141
+  },
+  {
+    "booking_id": "CNR7166595329",
+    "vehicle_type": "eBike",
+    "booking_value": 334
+  },
+  {
+    "booking_id": "CNR1671545162",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 1694
+  },
+  {
+    "booking_id": "CNR1526257771",
+    "vehicle_type": "Bike",
+    "booking_value": 321
+  },
+  {
+    "booking_id": "CNR5611044727",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 681
+  },
+  {
+    "booking_id": "CNR6624997606",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 300
+  },
+  {
+    "booking_id": "CNR2309760100",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 156
+  },
+  {
+    "booking_id": "CNR3773757937",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 340
+  },
+  {
+    "booking_id": "CNR9501194076",
+    "vehicle_type": "Auto",
+    "booking_value": 1594
+  },
+  {
+    "booking_id": "CNR8601779055",
+    "vehicle_type": "Bike",
+    "booking_value": 673
+  },
+  {
+    "booking_id": "CNR3473009580",
+    "vehicle_type": "Mini",
+    "booking_value": 460
+  },
+  {
+    "booking_id": "CNR3048649350",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 253
   },
   {
     "booking_id": "CNR3652254403",
     "vehicle_type": "eBike",
-    "booking_value": 2736,
-    "payment_method": "Cash"
+    "booking_value": 2736
+  },
+  {
+    "booking_id": "CNR6796802296",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 527
+  },
+  {
+    "booking_id": "CNR3683876806",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 320
+  },
+  {
+    "booking_id": "CNR8731273567",
+    "vehicle_type": "Bike",
+    "booking_value": 157
+  },
+  {
+    "booking_id": "CNR8926299731",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 712
+  },
+  {
+    "booking_id": "CNR5954530078",
+    "vehicle_type": "Bike",
+    "booking_value": 1298
+  },
+  {
+    "booking_id": "CNR2331793684",
+    "vehicle_type": "eBike",
+    "booking_value": 796
+  },
+  {
+    "booking_id": "CNR9548907704",
+    "vehicle_type": "Bike",
+    "booking_value": 178
+  },
+  {
+    "booking_id": "CNR5926542403",
+    "vehicle_type": "Auto",
+    "booking_value": 496
+  },
+  {
+    "booking_id": "CNR7392319702",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 338
+  },
+  {
+    "booking_id": "CNR4708010825",
+    "vehicle_type": "Mini",
+    "booking_value": 109
+  },
+  {
+    "booking_id": "CNR8791604157",
+    "vehicle_type": "Auto",
+    "booking_value": 258
+  },
+  {
+    "booking_id": "CNR9386198800",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 332
+  },
+  {
+    "booking_id": "CNR5522911023",
+    "vehicle_type": "Mini",
+    "booking_value": 161
+  },
+  {
+    "booking_id": "CNR7749213985",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 329
+  },
+  {
+    "booking_id": "CNR9199587169",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 107
+  },
+  {
+    "booking_id": "CNR3993873975",
+    "vehicle_type": "Bike",
+    "booking_value": 141
+  },
+  {
+    "booking_id": "CNR9468662392",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 390
+  },
+  {
+    "booking_id": "CNR2647405863",
+    "vehicle_type": "Mini",
+    "booking_value": 1536
+  },
+  {
+    "booking_id": "CNR1880847170",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 179
+  },
+  {
+    "booking_id": "CNR2599108558",
+    "vehicle_type": "Bike",
+    "booking_value": 942
+  },
+  {
+    "booking_id": "CNR2336184740",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 411
+  },
+  {
+    "booking_id": "CNR1575719884",
+    "vehicle_type": "Mini",
+    "booking_value": 123
+  },
+  {
+    "booking_id": "CNR5186221412",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 199
+  },
+  {
+    "booking_id": "CNR4379765654",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 268
+  },
+  {
+    "booking_id": "CNR4026044968",
+    "vehicle_type": "Bike",
+    "booking_value": 168
+  },
+  {
+    "booking_id": "CNR8373057532",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 349
+  },
+  {
+    "booking_id": "CNR6329470090",
+    "vehicle_type": "Bike",
+    "booking_value": 187
+  },
+  {
+    "booking_id": "CNR6164343869",
+    "vehicle_type": "Auto",
+    "booking_value": 315
+  },
+  {
+    "booking_id": "CNR5565981575",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 125
+  },
+  {
+    "booking_id": "CNR3395384504",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 315
+  },
+  {
+    "booking_id": "CNR7620674971",
+    "vehicle_type": "Mini",
+    "booking_value": 386
+  },
+  {
+    "booking_id": "CNR7913616437",
+    "vehicle_type": "Auto",
+    "booking_value": 365
+  },
+  {
+    "booking_id": "CNR8198521264",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 342
   },
   {
     "booking_id": "CNR7146534390",
     "vehicle_type": "Auto",
-    "booking_value": 2654,
-    "payment_method": "Cash"
+    "booking_value": 2654
+  },
+  {
+    "booking_id": "CNR2038496863",
+    "vehicle_type": "Auto",
+    "booking_value": 454
+  },
+  {
+    "booking_id": "CNR6045005709",
+    "vehicle_type": "Mini",
+    "booking_value": 124
+  },
+  {
+    "booking_id": "CNR8486139425",
+    "vehicle_type": "eBike",
+    "booking_value": 450
+  },
+  {
+    "booking_id": "CNR7503869981",
+    "vehicle_type": "Bike",
+    "booking_value": 200
+  },
+  {
+    "booking_id": "CNR8882819284",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 445
+  },
+  {
+    "booking_id": "CNR3176736342",
+    "vehicle_type": "Mini",
+    "booking_value": 324
+  },
+  {
+    "booking_id": "CNR5953689919",
+    "vehicle_type": "eBike",
+    "booking_value": 654
+  },
+  {
+    "booking_id": "CNR7949905908",
+    "vehicle_type": "Bike",
+    "booking_value": 780
+  },
+  {
+    "booking_id": "CNR2711852142",
+    "vehicle_type": "eBike",
+    "booking_value": 765
+  },
+  {
+    "booking_id": "CNR1242685876",
+    "vehicle_type": "eBike",
+    "booking_value": 277
+  },
+  {
+    "booking_id": "CNR8037802841",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 254
+  },
+  {
+    "booking_id": "CNR4350384109",
+    "vehicle_type": "Bike",
+    "booking_value": 769
+  },
+  {
+    "booking_id": "CNR6907821362",
+    "vehicle_type": "Bike",
+    "booking_value": 841
+  },
+  {
+    "booking_id": "CNR6489538815",
+    "vehicle_type": "Bike",
+    "booking_value": 442
+  },
+  {
+    "booking_id": "CNR3900924121",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 780
+  },
+  {
+    "booking_id": "CNR8589519523",
+    "vehicle_type": "eBike",
+    "booking_value": 298
+  },
+  {
+    "booking_id": "CNR3616606674",
+    "vehicle_type": "Bike",
+    "booking_value": 853
+  },
+  {
+    "booking_id": "CNR7646749192",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 466
+  },
+  {
+    "booking_id": "CNR9184397052",
+    "vehicle_type": "Auto",
+    "booking_value": 428
+  },
+  {
+    "booking_id": "CNR9287761944",
+    "vehicle_type": "Mini",
+    "booking_value": 310
+  },
+  {
+    "booking_id": "CNR7696359293",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 371
+  },
+  {
+    "booking_id": "CNR6003007231",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1627
+  },
+  {
+    "booking_id": "CNR8550438119",
+    "vehicle_type": "Mini",
+    "booking_value": 467
+  },
+  {
+    "booking_id": "CNR1657615001",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 272
+  },
+  {
+    "booking_id": "CNR9662744858",
+    "vehicle_type": "Mini",
+    "booking_value": 467
+  },
+  {
+    "booking_id": "CNR6495314019",
+    "vehicle_type": "Auto",
+    "booking_value": 2089
+  },
+  {
+    "booking_id": "CNR7083967325",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 482
+  },
+  {
+    "booking_id": "CNR3038926958",
+    "vehicle_type": "eBike",
+    "booking_value": 769
+  },
+  {
+    "booking_id": "CNR7787122338",
+    "vehicle_type": "eBike",
+    "booking_value": 1685
+  },
+  {
+    "booking_id": "CNR8055151043",
+    "vehicle_type": "Mini",
+    "booking_value": 369
+  },
+  {
+    "booking_id": "CNR5269877775",
+    "vehicle_type": "Mini",
+    "booking_value": 322
+  },
+  {
+    "booking_id": "CNR4695693634",
+    "vehicle_type": "Mini",
+    "booking_value": 1967
+  },
+  {
+    "booking_id": "CNR7229786597",
+    "vehicle_type": "eBike",
+    "booking_value": 749
+  },
+  {
+    "booking_id": "CNR6271749666",
+    "vehicle_type": "eBike",
+    "booking_value": 824
+  },
+  {
+    "booking_id": "CNR7220602272",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 341
+  },
+  {
+    "booking_id": "CNR8231125697",
+    "vehicle_type": "Mini",
+    "booking_value": 701
+  },
+  {
+    "booking_id": "CNR7835853608",
+    "vehicle_type": "Mini",
+    "booking_value": 455
+  },
+  {
+    "booking_id": "CNR1853376423",
+    "vehicle_type": "eBike",
+    "booking_value": 402
+  },
+  {
+    "booking_id": "CNR5364172400",
+    "vehicle_type": "Auto",
+    "booking_value": 1922
+  },
+  {
+    "booking_id": "CNR2327333020",
+    "vehicle_type": "Mini",
+    "booking_value": 283
+  },
+  {
+    "booking_id": "CNR8711905622",
+    "vehicle_type": "Mini",
+    "booking_value": 956
+  },
+  {
+    "booking_id": "CNR4312463327",
+    "vehicle_type": "Auto",
+    "booking_value": 628
+  },
+  {
+    "booking_id": "CNR1403524884",
+    "vehicle_type": "eBike",
+    "booking_value": 600
+  },
+  {
+    "booking_id": "CNR5253261132",
+    "vehicle_type": "eBike",
+    "booking_value": 444
+  },
+  {
+    "booking_id": "CNR9224989457",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 775
+  },
+  {
+    "booking_id": "CNR5944934086",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 366
+  },
+  {
+    "booking_id": "CNR8213231839",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 845
+  },
+  {
+    "booking_id": "CNR1994989013",
+    "vehicle_type": "Mini",
+    "booking_value": 2045
+  },
+  {
+    "booking_id": "CNR2550174224",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 165
+  },
+  {
+    "booking_id": "CNR1481247340",
+    "vehicle_type": "eBike",
+    "booking_value": 244
+  },
+  {
+    "booking_id": "CNR4716350536",
+    "vehicle_type": "Mini",
+    "booking_value": 150
+  },
+  {
+    "booking_id": "CNR6345269250",
+    "vehicle_type": "Auto",
+    "booking_value": 348
+  },
+  {
+    "booking_id": "CNR5670432023",
+    "vehicle_type": "Bike",
+    "booking_value": 607
+  },
+  {
+    "booking_id": "CNR4114636391",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 602
+  },
+  {
+    "booking_id": "CNR3252334048",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 369
+  },
+  {
+    "booking_id": "CNR5582842368",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 167
+  },
+  {
+    "booking_id": "CNR1975313283",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 493
+  },
+  {
+    "booking_id": "CNR2475130295",
+    "vehicle_type": "Mini",
+    "booking_value": 520
+  },
+  {
+    "booking_id": "CNR7690650272",
+    "vehicle_type": "Bike",
+    "booking_value": 844
+  },
+  {
+    "booking_id": "CNR4715482691",
+    "vehicle_type": "Auto",
+    "booking_value": 537
+  },
+  {
+    "booking_id": "CNR7572599002",
+    "vehicle_type": "Mini",
+    "booking_value": 2222
+  },
+  {
+    "booking_id": "CNR1400640797",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 638
+  },
+  {
+    "booking_id": "CNR5267716218",
+    "vehicle_type": "Bike",
+    "booking_value": 2336
+  },
+  {
+    "booking_id": "CNR6864482740",
+    "vehicle_type": "Mini",
+    "booking_value": 221
+  },
+  {
+    "booking_id": "CNR1349280757",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 467
+  },
+  {
+    "booking_id": "CNR8783605198",
+    "vehicle_type": "Mini",
+    "booking_value": 2412
+  },
+  {
+    "booking_id": "CNR1132479836",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 231
+  },
+  {
+    "booking_id": "CNR2180519775",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2442
+  },
+  {
+    "booking_id": "CNR5873551656",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 245
+  },
+  {
+    "booking_id": "CNR1620516177",
+    "vehicle_type": "eBike",
+    "booking_value": 174
+  },
+  {
+    "booking_id": "CNR6169344540",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 135
+  },
+  {
+    "booking_id": "CNR5585894418",
+    "vehicle_type": "Bike",
+    "booking_value": 431
+  },
+  {
+    "booking_id": "CNR8855444957",
+    "vehicle_type": "Bike",
+    "booking_value": 393
+  },
+  {
+    "booking_id": "CNR9564888023",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 286
+  },
+  {
+    "booking_id": "CNR7672106052",
+    "vehicle_type": "Bike",
+    "booking_value": 159
+  },
+  {
+    "booking_id": "CNR5965065809",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 217
+  },
+  {
+    "booking_id": "CNR4792220037",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 426
+  },
+  {
+    "booking_id": "CNR9155023163",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 257
+  },
+  {
+    "booking_id": "CNR8844115359",
+    "vehicle_type": "eBike",
+    "booking_value": 473
+  },
+  {
+    "booking_id": "CNR7209183787",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 464
+  },
+  {
+    "booking_id": "CNR6341452995",
+    "vehicle_type": "eBike",
+    "booking_value": 278
+  },
+  {
+    "booking_id": "CNR2676284040",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 727
+  },
+  {
+    "booking_id": "CNR9201801850",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 153
+  },
+  {
+    "booking_id": "CNR4958811612",
+    "vehicle_type": "eBike",
+    "booking_value": 420
+  },
+  {
+    "booking_id": "CNR4995095374",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 935
+  },
+  {
+    "booking_id": "CNR4950614522",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 2006
+  },
+  {
+    "booking_id": "CNR8011185484",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 113
+  },
+  {
+    "booking_id": "CNR1958870257",
+    "vehicle_type": "Bike",
+    "booking_value": 267
+  },
+  {
+    "booking_id": "CNR2377400229",
+    "vehicle_type": "Mini",
+    "booking_value": 356
+  },
+  {
+    "booking_id": "CNR5652146201",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 425
+  },
+  {
+    "booking_id": "CNR6087397814",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 125
+  },
+  {
+    "booking_id": "CNR8565395988",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 242
+  },
+  {
+    "booking_id": "CNR5815010795",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 102
+  },
+  {
+    "booking_id": "CNR7345674545",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 285
+  },
+  {
+    "booking_id": "CNR1497254958",
+    "vehicle_type": "Auto",
+    "booking_value": 204
+  },
+  {
+    "booking_id": "CNR5034022840",
+    "vehicle_type": "Bike",
+    "booking_value": 152
+  },
+  {
+    "booking_id": "CNR4749399803",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 786
+  },
+  {
+    "booking_id": "CNR1955058438",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 453
+  },
+  {
+    "booking_id": "CNR5217536830",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 295
+  },
+  {
+    "booking_id": "CNR5674330588",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 468
+  },
+  {
+    "booking_id": "CNR9354683542",
+    "vehicle_type": "eBike",
+    "booking_value": 320
+  },
+  {
+    "booking_id": "CNR6867211769",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 801
+  },
+  {
+    "booking_id": "CNR7716250548",
+    "vehicle_type": "eBike",
+    "booking_value": 193
+  },
+  {
+    "booking_id": "CNR7136992335",
+    "vehicle_type": "Bike",
+    "booking_value": 1235
+  },
+  {
+    "booking_id": "CNR6007765462",
+    "vehicle_type": "Bike",
+    "booking_value": 227
+  },
+  {
+    "booking_id": "CNR4681585154",
+    "vehicle_type": "eBike",
+    "booking_value": 191
+  },
+  {
+    "booking_id": "CNR4832126285",
+    "vehicle_type": "Mini",
+    "booking_value": 478
+  },
+  {
+    "booking_id": "CNR1560233064",
+    "vehicle_type": "Bike",
+    "booking_value": 802
+  },
+  {
+    "booking_id": "CNR9317424746",
+    "vehicle_type": "Auto",
+    "booking_value": 239
+  },
+  {
+    "booking_id": "CNR2914440001",
+    "vehicle_type": "Bike",
+    "booking_value": 168
+  },
+  {
+    "booking_id": "CNR4964834346",
+    "vehicle_type": "eBike",
+    "booking_value": 388
+  },
+  {
+    "booking_id": "CNR1076003181",
+    "vehicle_type": "Mini",
+    "booking_value": 840
+  },
+  {
+    "booking_id": "CNR8694619268",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 942
+  },
+  {
+    "booking_id": "CNR6997842236",
+    "vehicle_type": "Auto",
+    "booking_value": 1208
+  },
+  {
+    "booking_id": "CNR6782037047",
+    "vehicle_type": "Bike",
+    "booking_value": 195
+  },
+  {
+    "booking_id": "CNR7618009420",
+    "vehicle_type": "eBike",
+    "booking_value": 741
+  },
+  {
+    "booking_id": "CNR8472362971",
+    "vehicle_type": "Auto",
+    "booking_value": 444
   },
   {
     "booking_id": "CNR4879698455",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2622,
-    "payment_method": "Cash"
+    "booking_value": 2622
   },
   {
     "booking_id": "CNR7855771695",
     "vehicle_type": "Prime Sedan",
-    "booking_value": 2787,
-    "payment_method": "Cash"
+    "booking_value": 2787
+  },
+  {
+    "booking_id": "CNR5875564022",
+    "vehicle_type": "Bike",
+    "booking_value": 400
+  },
+  {
+    "booking_id": "CNR5968569583",
+    "vehicle_type": "Auto",
+    "booking_value": 384
+  },
+  {
+    "booking_id": "CNR1358800370",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 465
+  },
+  {
+    "booking_id": "CNR4445608158",
+    "vehicle_type": "Auto",
+    "booking_value": 137
+  },
+  {
+    "booking_id": "CNR2390298946",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 168
+  },
+  {
+    "booking_id": "CNR9011917629",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 228
+  },
+  {
+    "booking_id": "CNR5222640415",
+    "vehicle_type": "Auto",
+    "booking_value": 743
+  },
+  {
+    "booking_id": "CNR6608343976",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 365
+  },
+  {
+    "booking_id": "CNR1579495615",
+    "vehicle_type": "eBike",
+    "booking_value": 359
+  },
+  {
+    "booking_id": "CNR7272596312",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 183
   },
   {
     "booking_id": "CNR8205151708",
     "vehicle_type": "Prime Plus",
-    "booking_value": 2559,
-    "payment_method": "null"
+    "booking_value": 2559
+  },
+  {
+    "booking_id": "CNR3907019335",
+    "vehicle_type": "eBike",
+    "booking_value": 192
+  },
+  {
+    "booking_id": "CNR2232706953",
+    "vehicle_type": "Auto",
+    "booking_value": 176
+  },
+  {
+    "booking_id": "CNR2840539581",
+    "vehicle_type": "Bike",
+    "booking_value": 404
+  },
+  {
+    "booking_id": "CNR7353103159",
+    "vehicle_type": "Bike",
+    "booking_value": 160
+  },
+  {
+    "booking_id": "CNR2071589436",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 300
+  },
+  {
+    "booking_id": "CNR9661704848",
+    "vehicle_type": "eBike",
+    "booking_value": 340
+  },
+  {
+    "booking_id": "CNR2116860343",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 323
+  },
+  {
+    "booking_id": "CNR9356468978",
+    "vehicle_type": "Auto",
+    "booking_value": 734
+  },
+  {
+    "booking_id": "CNR1181632770",
+    "vehicle_type": "Bike",
+    "booking_value": 438
+  },
+  {
+    "booking_id": "CNR9778276855",
+    "vehicle_type": "eBike",
+    "booking_value": 139
+  },
+  {
+    "booking_id": "CNR6156343924",
+    "vehicle_type": "eBike",
+    "booking_value": 808
+  },
+  {
+    "booking_id": "CNR4068870875",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 312
+  },
+  {
+    "booking_id": "CNR9678713539",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 440
+  },
+  {
+    "booking_id": "CNR7786329661",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 412
+  },
+  {
+    "booking_id": "CNR2006669948",
+    "vehicle_type": "eBike",
+    "booking_value": 313
+  },
+  {
+    "booking_id": "CNR5699859676",
+    "vehicle_type": "Auto",
+    "booking_value": 379
+  },
+  {
+    "booking_id": "CNR8114143088",
+    "vehicle_type": "Auto",
+    "booking_value": 126
+  },
+  {
+    "booking_id": "CNR8327860744",
+    "vehicle_type": "eBike",
+    "booking_value": 102
+  },
+  {
+    "booking_id": "CNR3862549588",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 204
+  },
+  {
+    "booking_id": "CNR6770163162",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 341
+  },
+  {
+    "booking_id": "CNR2355204635",
+    "vehicle_type": "Bike",
+    "booking_value": 205
+  },
+  {
+    "booking_id": "CNR9241501340",
+    "vehicle_type": "Mini",
+    "booking_value": 625
+  },
+  {
+    "booking_id": "CNR8678164939",
+    "vehicle_type": "Auto",
+    "booking_value": 144
+  },
+  {
+    "booking_id": "CNR5848350765",
+    "vehicle_type": "Mini",
+    "booking_value": 436
+  },
+  {
+    "booking_id": "CNR7298562203",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 766
+  },
+  {
+    "booking_id": "CNR4497240799",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 251
+  },
+  {
+    "booking_id": "CNR3887813422",
+    "vehicle_type": "eBike",
+    "booking_value": 849
+  },
+  {
+    "booking_id": "CNR6409292778",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 348
+  },
+  {
+    "booking_id": "CNR6879499968",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 302
+  },
+  {
+    "booking_id": "CNR8527882321",
+    "vehicle_type": "eBike",
+    "booking_value": 746
+  },
+  {
+    "booking_id": "CNR4404910089",
+    "vehicle_type": "Mini",
+    "booking_value": 820
+  },
+  {
+    "booking_id": "CNR2670885814",
+    "vehicle_type": "Bike",
+    "booking_value": 2003
+  },
+  {
+    "booking_id": "CNR2365398269",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 109
+  },
+  {
+    "booking_id": "CNR4076543638",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 543
+  },
+  {
+    "booking_id": "CNR4666202759",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 574
+  },
+  {
+    "booking_id": "CNR1489588497",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 331
+  },
+  {
+    "booking_id": "CNR7158954017",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 321
+  },
+  {
+    "booking_id": "CNR4754231492",
+    "vehicle_type": "Bike",
+    "booking_value": 398
+  },
+  {
+    "booking_id": "CNR1700239819",
+    "vehicle_type": "Bike",
+    "booking_value": 983
+  },
+  {
+    "booking_id": "CNR9846884428",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 301
+  },
+  {
+    "booking_id": "CNR4542099540",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 181
+  },
+  {
+    "booking_id": "CNR9641421270",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 695
+  },
+  {
+    "booking_id": "CNR9609140229",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 359
+  },
+  {
+    "booking_id": "CNR6775218386",
+    "vehicle_type": "Bike",
+    "booking_value": 885
+  },
+  {
+    "booking_id": "CNR6374840775",
+    "vehicle_type": "Bike",
+    "booking_value": 371
+  },
+  {
+    "booking_id": "CNR5355996546",
+    "vehicle_type": "eBike",
+    "booking_value": 150
+  },
+  {
+    "booking_id": "CNR9339060334",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 322
+  },
+  {
+    "booking_id": "CNR1455423763",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 868
+  },
+  {
+    "booking_id": "CNR1960712056",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 352
+  },
+  {
+    "booking_id": "CNR5836101942",
+    "vehicle_type": "Bike",
+    "booking_value": 2265
+  },
+  {
+    "booking_id": "CNR5857286647",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 207
+  },
+  {
+    "booking_id": "CNR3208454200",
+    "vehicle_type": "Mini",
+    "booking_value": 302
+  },
+  {
+    "booking_id": "CNR2581238038",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 218
+  },
+  {
+    "booking_id": "CNR2306139600",
+    "vehicle_type": "Mini",
+    "booking_value": 837
+  },
+  {
+    "booking_id": "CNR3964075450",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 406
+  },
+  {
+    "booking_id": "CNR4380296539",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 523
+  },
+  {
+    "booking_id": "CNR4940051723",
+    "vehicle_type": "Mini",
+    "booking_value": 272
+  },
+  {
+    "booking_id": "CNR7551645120",
+    "vehicle_type": "Mini",
+    "booking_value": 355
+  },
+  {
+    "booking_id": "CNR5745796357",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 581
+  },
+  {
+    "booking_id": "CNR6157289416",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 107
+  },
+  {
+    "booking_id": "CNR2516178224",
+    "vehicle_type": "Bike",
+    "booking_value": 630
+  },
+  {
+    "booking_id": "CNR5408243528",
+    "vehicle_type": "Bike",
+    "booking_value": 1915
+  },
+  {
+    "booking_id": "CNR9293388024",
+    "vehicle_type": "Auto",
+    "booking_value": 875
+  },
+  {
+    "booking_id": "CNR4599449178",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 813
+  },
+  {
+    "booking_id": "CNR9038770488",
+    "vehicle_type": "Auto",
+    "booking_value": 280
+  },
+  {
+    "booking_id": "CNR8163125914",
+    "vehicle_type": "Mini",
+    "booking_value": 843
+  },
+  {
+    "booking_id": "CNR8408733005",
+    "vehicle_type": "eBike",
+    "booking_value": 335
+  },
+  {
+    "booking_id": "CNR1065046206",
+    "vehicle_type": "Mini",
+    "booking_value": 997
+  },
+  {
+    "booking_id": "CNR7516670062",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 854
+  },
+  {
+    "booking_id": "CNR8176217018",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 945
+  },
+  {
+    "booking_id": "CNR8925594422",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 495
+  },
+  {
+    "booking_id": "CNR4862110541",
+    "vehicle_type": "Auto",
+    "booking_value": 230
+  },
+  {
+    "booking_id": "CNR3030024557",
+    "vehicle_type": "Mini",
+    "booking_value": 116
+  },
+  {
+    "booking_id": "CNR8647135112",
+    "vehicle_type": "Mini",
+    "booking_value": 326
+  },
+  {
+    "booking_id": "CNR9191911160",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 445
+  },
+  {
+    "booking_id": "CNR6022124331",
+    "vehicle_type": "eBike",
+    "booking_value": 2388
+  },
+  {
+    "booking_id": "CNR2038599518",
+    "vehicle_type": "Bike",
+    "booking_value": 290
+  },
+  {
+    "booking_id": "CNR7577975979",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 181
+  },
+  {
+    "booking_id": "CNR4087758504",
+    "vehicle_type": "Bike",
+    "booking_value": 166
+  },
+  {
+    "booking_id": "CNR1548969411",
+    "vehicle_type": "eBike",
+    "booking_value": 235
+  },
+  {
+    "booking_id": "CNR3076514356",
+    "vehicle_type": "Bike",
+    "booking_value": 307
+  },
+  {
+    "booking_id": "CNR3678662878",
+    "vehicle_type": "eBike",
+    "booking_value": 207
+  },
+  {
+    "booking_id": "CNR6965605548",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 139
+  },
+  {
+    "booking_id": "CNR1567105900",
+    "vehicle_type": "Auto",
+    "booking_value": 301
+  },
+  {
+    "booking_id": "CNR4267332349",
+    "vehicle_type": "Mini",
+    "booking_value": 348
+  },
+  {
+    "booking_id": "CNR9503358882",
+    "vehicle_type": "Bike",
+    "booking_value": 622
+  },
+  {
+    "booking_id": "CNR6596199396",
+    "vehicle_type": "Auto",
+    "booking_value": 331
+  },
+  {
+    "booking_id": "CNR7977658568",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 673
+  },
+  {
+    "booking_id": "CNR6820869733",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 994
+  },
+  {
+    "booking_id": "CNR7825991393",
+    "vehicle_type": "Auto",
+    "booking_value": 279
+  },
+  {
+    "booking_id": "CNR5112322825",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 472
+  },
+  {
+    "booking_id": "CNR2256036985",
+    "vehicle_type": "eBike",
+    "booking_value": 212
+  },
+  {
+    "booking_id": "CNR2792003257",
+    "vehicle_type": "Auto",
+    "booking_value": 191
+  },
+  {
+    "booking_id": "CNR9467197030",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 190
+  },
+  {
+    "booking_id": "CNR8947815950",
+    "vehicle_type": "eBike",
+    "booking_value": 2289
+  },
+  {
+    "booking_id": "CNR9133360081",
+    "vehicle_type": "Auto",
+    "booking_value": 404
+  },
+  {
+    "booking_id": "CNR4743708122",
+    "vehicle_type": "Mini",
+    "booking_value": 2348
+  },
+  {
+    "booking_id": "CNR3460418573",
+    "vehicle_type": "Bike",
+    "booking_value": 437
+  },
+  {
+    "booking_id": "CNR3239967223",
+    "vehicle_type": "Auto",
+    "booking_value": 315
+  },
+  {
+    "booking_id": "CNR6884381128",
+    "vehicle_type": "Bike",
+    "booking_value": 209
+  },
+  {
+    "booking_id": "CNR2438393959",
+    "vehicle_type": "eBike",
+    "booking_value": 280
+  },
+  {
+    "booking_id": "CNR5877378131",
+    "vehicle_type": "Mini",
+    "booking_value": 511
+  },
+  {
+    "booking_id": "CNR6625882009",
+    "vehicle_type": "eBike",
+    "booking_value": 470
+  },
+  {
+    "booking_id": "CNR9028977889",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 2160
+  },
+  {
+    "booking_id": "CNR4852051674",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 724
+  },
+  {
+    "booking_id": "CNR7750182452",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 209
+  },
+  {
+    "booking_id": "CNR9727082154",
+    "vehicle_type": "eBike",
+    "booking_value": 423
+  },
+  {
+    "booking_id": "CNR4460935889",
+    "vehicle_type": "Auto",
+    "booking_value": 326
+  },
+  {
+    "booking_id": "CNR8308681095",
+    "vehicle_type": "Auto",
+    "booking_value": 222
+  },
+  {
+    "booking_id": "CNR6833603387",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 360
+  },
+  {
+    "booking_id": "CNR8282157036",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 443
+  },
+  {
+    "booking_id": "CNR6805802504",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 111
+  },
+  {
+    "booking_id": "CNR9431870055",
+    "vehicle_type": "Mini",
+    "booking_value": 129
+  },
+  {
+    "booking_id": "CNR6019674544",
+    "vehicle_type": "Bike",
+    "booking_value": 244
+  },
+  {
+    "booking_id": "CNR6236185891",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 114
+  },
+  {
+    "booking_id": "CNR7915819547",
+    "vehicle_type": "Auto",
+    "booking_value": 1856
+  },
+  {
+    "booking_id": "CNR4874848952",
+    "vehicle_type": "Bike",
+    "booking_value": 412
+  },
+  {
+    "booking_id": "CNR5869414569",
+    "vehicle_type": "Bike",
+    "booking_value": 494
+  },
+  {
+    "booking_id": "CNR7900514920",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 264
+  },
+  {
+    "booking_id": "CNR5836161610",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 185
+  },
+  {
+    "booking_id": "CNR8771443420",
+    "vehicle_type": "Bike",
+    "booking_value": 484
+  },
+  {
+    "booking_id": "CNR3831372701",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 100
+  },
+  {
+    "booking_id": "CNR4124818360",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 422
+  },
+  {
+    "booking_id": "CNR4112653369",
+    "vehicle_type": "Bike",
+    "booking_value": 176
+  },
+  {
+    "booking_id": "CNR2279547774",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 658
+  },
+  {
+    "booking_id": "CNR1789683187",
+    "vehicle_type": "Bike",
+    "booking_value": 685
+  },
+  {
+    "booking_id": "CNR7486498167",
+    "vehicle_type": "Mini",
+    "booking_value": 304
+  },
+  {
+    "booking_id": "CNR9059158961",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 195
+  },
+  {
+    "booking_id": "CNR2361430651",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 306
+  },
+  {
+    "booking_id": "CNR8079482356",
+    "vehicle_type": "eBike",
+    "booking_value": 245
+  },
+  {
+    "booking_id": "CNR7410841462",
+    "vehicle_type": "eBike",
+    "booking_value": 2023
+  },
+  {
+    "booking_id": "CNR1882355169",
+    "vehicle_type": "eBike",
+    "booking_value": 460
+  },
+  {
+    "booking_id": "CNR5320089883",
+    "vehicle_type": "Mini",
+    "booking_value": 329
+  },
+  {
+    "booking_id": "CNR1060893610",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1726
+  },
+  {
+    "booking_id": "CNR9796382851",
+    "vehicle_type": "eBike",
+    "booking_value": 482
+  },
+  {
+    "booking_id": "CNR7253330466",
+    "vehicle_type": "Mini",
+    "booking_value": 791
+  },
+  {
+    "booking_id": "CNR5837715922",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 201
+  },
+  {
+    "booking_id": "CNR1815334755",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 196
+  },
+  {
+    "booking_id": "CNR2728624270",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 178
+  },
+  {
+    "booking_id": "CNR8982387608",
+    "vehicle_type": "Bike",
+    "booking_value": 780
+  },
+  {
+    "booking_id": "CNR1569898515",
+    "vehicle_type": "Bike",
+    "booking_value": 375
+  },
+  {
+    "booking_id": "CNR8041167737",
+    "vehicle_type": "Bike",
+    "booking_value": 256
+  },
+  {
+    "booking_id": "CNR2869819721",
+    "vehicle_type": "Auto",
+    "booking_value": 401
+  },
+  {
+    "booking_id": "CNR5216290013",
+    "vehicle_type": "Mini",
+    "booking_value": 339
+  },
+  {
+    "booking_id": "CNR8393020459",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 121
+  },
+  {
+    "booking_id": "CNR1116538522",
+    "vehicle_type": "Auto",
+    "booking_value": 465
+  },
+  {
+    "booking_id": "CNR8265302160",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 132
+  },
+  {
+    "booking_id": "CNR2718970495",
+    "vehicle_type": "eBike",
+    "booking_value": 245
+  },
+  {
+    "booking_id": "CNR6570881442",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 299
+  },
+  {
+    "booking_id": "CNR6368371422",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 474
+  },
+  {
+    "booking_id": "CNR8201070560",
+    "vehicle_type": "Auto",
+    "booking_value": 402
+  },
+  {
+    "booking_id": "CNR2899272804",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 222
+  },
+  {
+    "booking_id": "CNR2479859794",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 815
+  },
+  {
+    "booking_id": "CNR1850719022",
+    "vehicle_type": "Auto",
+    "booking_value": 863
+  },
+  {
+    "booking_id": "CNR5094376567",
+    "vehicle_type": "eBike",
+    "booking_value": 246
+  },
+  {
+    "booking_id": "CNR1893201508",
+    "vehicle_type": "Mini",
+    "booking_value": 274
+  },
+  {
+    "booking_id": "CNR5074298099",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 286
+  },
+  {
+    "booking_id": "CNR2281157114",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 638
+  },
+  {
+    "booking_id": "CNR4950981431",
+    "vehicle_type": "Auto",
+    "booking_value": 953
+  },
+  {
+    "booking_id": "CNR5997420388",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 157
+  },
+  {
+    "booking_id": "CNR2321188573",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 140
+  },
+  {
+    "booking_id": "CNR3939359326",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 763
+  },
+  {
+    "booking_id": "CNR5602793736",
+    "vehicle_type": "Mini",
+    "booking_value": 804
+  },
+  {
+    "booking_id": "CNR6225502169",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 559
+  },
+  {
+    "booking_id": "CNR6492506630",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 257
+  },
+  {
+    "booking_id": "CNR6562373788",
+    "vehicle_type": "eBike",
+    "booking_value": 371
+  },
+  {
+    "booking_id": "CNR1482689284",
+    "vehicle_type": "Bike",
+    "booking_value": 382
+  },
+  {
+    "booking_id": "CNR5392812023",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 444
+  },
+  {
+    "booking_id": "CNR3066501835",
+    "vehicle_type": "Mini",
+    "booking_value": 313
+  },
+  {
+    "booking_id": "CNR7638328063",
+    "vehicle_type": "eBike",
+    "booking_value": 625
+  },
+  {
+    "booking_id": "CNR3954408054",
+    "vehicle_type": "eBike",
+    "booking_value": 710
+  },
+  {
+    "booking_id": "CNR1970834582",
+    "vehicle_type": "Auto",
+    "booking_value": 394
+  },
+  {
+    "booking_id": "CNR6100333384",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 204
+  },
+  {
+    "booking_id": "CNR2006869937",
+    "vehicle_type": "Mini",
+    "booking_value": 145
+  },
+  {
+    "booking_id": "CNR4565632076",
+    "vehicle_type": "Auto",
+    "booking_value": 169
+  },
+  {
+    "booking_id": "CNR7424641886",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 419
+  },
+  {
+    "booking_id": "CNR1839795660",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 454
+  },
+  {
+    "booking_id": "CNR7973237841",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 863
+  },
+  {
+    "booking_id": "CNR6716670965",
+    "vehicle_type": "eBike",
+    "booking_value": 405
+  },
+  {
+    "booking_id": "CNR7561335894",
+    "vehicle_type": "eBike",
+    "booking_value": 148
+  },
+  {
+    "booking_id": "CNR1005939997",
+    "vehicle_type": "Auto",
+    "booking_value": 733
+  },
+  {
+    "booking_id": "CNR9005413085",
+    "vehicle_type": "Bike",
+    "booking_value": 129
+  },
+  {
+    "booking_id": "CNR7048415283",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 179
+  },
+  {
+    "booking_id": "CNR7946098920",
+    "vehicle_type": "Bike",
+    "booking_value": 383
+  },
+  {
+    "booking_id": "CNR4010359416",
+    "vehicle_type": "eBike",
+    "booking_value": 859
+  },
+  {
+    "booking_id": "CNR4297239582",
+    "vehicle_type": "Bike",
+    "booking_value": 360
+  },
+  {
+    "booking_id": "CNR1356110582",
+    "vehicle_type": "Bike",
+    "booking_value": 690
+  },
+  {
+    "booking_id": "CNR2552679255",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 951
+  },
+  {
+    "booking_id": "CNR6151816816",
+    "vehicle_type": "Bike",
+    "booking_value": 130
+  },
+  {
+    "booking_id": "CNR1713082966",
+    "vehicle_type": "Bike",
+    "booking_value": 149
+  },
+  {
+    "booking_id": "CNR6489074001",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 318
+  },
+  {
+    "booking_id": "CNR4852403475",
+    "vehicle_type": "eBike",
+    "booking_value": 481
+  },
+  {
+    "booking_id": "CNR9855679187",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 810
+  },
+  {
+    "booking_id": "CNR1275746765",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 118
+  },
+  {
+    "booking_id": "CNR7200381295",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 476
+  },
+  {
+    "booking_id": "CNR6596170729",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 486
+  },
+  {
+    "booking_id": "CNR8743229892",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 816
+  },
+  {
+    "booking_id": "CNR3511171067",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 321
+  },
+  {
+    "booking_id": "CNR8758934289",
+    "vehicle_type": "Bike",
+    "booking_value": 439
+  },
+  {
+    "booking_id": "CNR7032795857",
+    "vehicle_type": "Auto",
+    "booking_value": 957
+  },
+  {
+    "booking_id": "CNR5008119771",
+    "vehicle_type": "Bike",
+    "booking_value": 130
+  },
+  {
+    "booking_id": "CNR7662523643",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 137
+  },
+  {
+    "booking_id": "CNR3500279552",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 395
+  },
+  {
+    "booking_id": "CNR1040028686",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 128
+  },
+  {
+    "booking_id": "CNR4210964943",
+    "vehicle_type": "Bike",
+    "booking_value": 267
+  },
+  {
+    "booking_id": "CNR7345208587",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 152
+  },
+  {
+    "booking_id": "CNR6488989065",
+    "vehicle_type": "eBike",
+    "booking_value": 1153
+  },
+  {
+    "booking_id": "CNR9968121559",
+    "vehicle_type": "Auto",
+    "booking_value": 486
+  },
+  {
+    "booking_id": "CNR9246115840",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 717
+  },
+  {
+    "booking_id": "CNR9158959128",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 414
+  },
+  {
+    "booking_id": "CNR1598781288",
+    "vehicle_type": "Auto",
+    "booking_value": 441
+  },
+  {
+    "booking_id": "CNR2277209569",
+    "vehicle_type": "Bike",
+    "booking_value": 476
+  },
+  {
+    "booking_id": "CNR5215147606",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 467
+  },
+  {
+    "booking_id": "CNR3113184644",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 162
+  },
+  {
+    "booking_id": "CNR7604573265",
+    "vehicle_type": "eBike",
+    "booking_value": 184
+  },
+  {
+    "booking_id": "CNR1902175722",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 460
+  },
+  {
+    "booking_id": "CNR2337286602",
+    "vehicle_type": "eBike",
+    "booking_value": 392
+  },
+  {
+    "booking_id": "CNR3812819228",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 368
+  },
+  {
+    "booking_id": "CNR9967062411",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 482
+  },
+  {
+    "booking_id": "CNR6928801606",
+    "vehicle_type": "eBike",
+    "booking_value": 359
+  },
+  {
+    "booking_id": "CNR8887547051",
+    "vehicle_type": "Auto",
+    "booking_value": 464
+  },
+  {
+    "booking_id": "CNR8801010699",
+    "vehicle_type": "Auto",
+    "booking_value": 659
+  },
+  {
+    "booking_id": "CNR9307551935",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 336
+  },
+  {
+    "booking_id": "CNR3721423408",
+    "vehicle_type": "Auto",
+    "booking_value": 430
+  },
+  {
+    "booking_id": "CNR4188491998",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 337
+  },
+  {
+    "booking_id": "CNR4684203179",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 883
+  },
+  {
+    "booking_id": "CNR6443801022",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 204
+  },
+  {
+    "booking_id": "CNR3129276205",
+    "vehicle_type": "Auto",
+    "booking_value": 451
+  },
+  {
+    "booking_id": "CNR5951102569",
+    "vehicle_type": "eBike",
+    "booking_value": 438
+  },
+  {
+    "booking_id": "CNR5735421549",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 302
+  },
+  {
+    "booking_id": "CNR1310997133",
+    "vehicle_type": "Bike",
+    "booking_value": 170
+  },
+  {
+    "booking_id": "CNR6382962442",
+    "vehicle_type": "eBike",
+    "booking_value": 284
+  },
+  {
+    "booking_id": "CNR5966666612",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 558
+  },
+  {
+    "booking_id": "CNR8112837408",
+    "vehicle_type": "Mini",
+    "booking_value": 493
+  },
+  {
+    "booking_id": "CNR1377247188",
+    "vehicle_type": "Bike",
+    "booking_value": 349
+  },
+  {
+    "booking_id": "CNR7198192150",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 856
+  },
+  {
+    "booking_id": "CNR6326742644",
+    "vehicle_type": "Auto",
+    "booking_value": 970
+  },
+  {
+    "booking_id": "CNR4296524286",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 234
+  },
+  {
+    "booking_id": "CNR2381493290",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 858
+  },
+  {
+    "booking_id": "CNR1493194468",
+    "vehicle_type": "eBike",
+    "booking_value": 391
+  },
+  {
+    "booking_id": "CNR8782377897",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 182
+  },
+  {
+    "booking_id": "CNR9684393759",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 891
+  },
+  {
+    "booking_id": "CNR5333818928",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 839
+  },
+  {
+    "booking_id": "CNR6327417132",
+    "vehicle_type": "Mini",
+    "booking_value": 901
+  },
+  {
+    "booking_id": "CNR1772132732",
+    "vehicle_type": "Bike",
+    "booking_value": 605
+  },
+  {
+    "booking_id": "CNR9541683406",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 357
+  },
+  {
+    "booking_id": "CNR5568332966",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 628
+  },
+  {
+    "booking_id": "CNR5071270134",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 286
+  },
+  {
+    "booking_id": "CNR4504472589",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 480
+  },
+  {
+    "booking_id": "CNR3204123089",
+    "vehicle_type": "Mini",
+    "booking_value": 444
+  },
+  {
+    "booking_id": "CNR4816034558",
+    "vehicle_type": "eBike",
+    "booking_value": 652
+  },
+  {
+    "booking_id": "CNR2982785360",
+    "vehicle_type": "Bike",
+    "booking_value": 457
+  },
+  {
+    "booking_id": "CNR9586281923",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 313
+  },
+  {
+    "booking_id": "CNR7809779856",
+    "vehicle_type": "Bike",
+    "booking_value": 170
+  },
+  {
+    "booking_id": "CNR8250688099",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 343
+  },
+  {
+    "booking_id": "CNR6408281861",
+    "vehicle_type": "eBike",
+    "booking_value": 110
+  },
+  {
+    "booking_id": "CNR5635114551",
+    "vehicle_type": "Bike",
+    "booking_value": 395
+  },
+  {
+    "booking_id": "CNR4963489278",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 825
+  },
+  {
+    "booking_id": "CNR3580396956",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 734
+  },
+  {
+    "booking_id": "CNR5036114629",
+    "vehicle_type": "eBike",
+    "booking_value": 439
+  },
+  {
+    "booking_id": "CNR9911594372",
+    "vehicle_type": "Mini",
+    "booking_value": 242
+  },
+  {
+    "booking_id": "CNR7278665695",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 552
+  },
+  {
+    "booking_id": "CNR6318281162",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 882
+  },
+  {
+    "booking_id": "CNR7993017432",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 830
+  },
+  {
+    "booking_id": "CNR9659738536",
+    "vehicle_type": "Mini",
+    "booking_value": 412
+  },
+  {
+    "booking_id": "CNR4586354779",
+    "vehicle_type": "Bike",
+    "booking_value": 350
+  },
+  {
+    "booking_id": "CNR7022860870",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 333
+  },
+  {
+    "booking_id": "CNR1825121100",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 1843
+  },
+  {
+    "booking_id": "CNR9914731208",
+    "vehicle_type": "Bike",
+    "booking_value": 919
+  },
+  {
+    "booking_id": "CNR6739378301",
+    "vehicle_type": "Auto",
+    "booking_value": 205
+  },
+  {
+    "booking_id": "CNR7360853265",
+    "vehicle_type": "Bike",
+    "booking_value": 190
+  },
+  {
+    "booking_id": "CNR1896699131",
+    "vehicle_type": "Mini",
+    "booking_value": 398
+  },
+  {
+    "booking_id": "CNR1036001347",
+    "vehicle_type": "Auto",
+    "booking_value": 311
+  },
+  {
+    "booking_id": "CNR7435107387",
+    "vehicle_type": "Bike",
+    "booking_value": 901
+  },
+  {
+    "booking_id": "CNR2897530488",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 127
+  },
+  {
+    "booking_id": "CNR7620784873",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 426
+  },
+  {
+    "booking_id": "CNR4558592751",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 180
+  },
+  {
+    "booking_id": "CNR9772522655",
+    "vehicle_type": "Auto",
+    "booking_value": 1513
+  },
+  {
+    "booking_id": "CNR1262847447",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 921
+  },
+  {
+    "booking_id": "CNR3072816721",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 567
+  },
+  {
+    "booking_id": "CNR4861568111",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1427
+  },
+  {
+    "booking_id": "CNR6149275370",
+    "vehicle_type": "Bike",
+    "booking_value": 368
+  },
+  {
+    "booking_id": "CNR6480357257",
+    "vehicle_type": "eBike",
+    "booking_value": 358
+  },
+  {
+    "booking_id": "CNR3668974910",
+    "vehicle_type": "eBike",
+    "booking_value": 222
+  },
+  {
+    "booking_id": "CNR8158246656",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 171
+  },
+  {
+    "booking_id": "CNR8655871664",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 383
+  },
+  {
+    "booking_id": "CNR8980883100",
+    "vehicle_type": "Auto",
+    "booking_value": 761
+  },
+  {
+    "booking_id": "CNR9936103758",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 260
+  },
+  {
+    "booking_id": "CNR4679288114",
+    "vehicle_type": "eBike",
+    "booking_value": 1245
+  },
+  {
+    "booking_id": "CNR5599999670",
+    "vehicle_type": "Auto",
+    "booking_value": 137
+  },
+  {
+    "booking_id": "CNR2764987152",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 223
+  },
+  {
+    "booking_id": "CNR4661305592",
+    "vehicle_type": "Bike",
+    "booking_value": 759
+  },
+  {
+    "booking_id": "CNR1475768676",
+    "vehicle_type": "eBike",
+    "booking_value": 206
+  },
+  {
+    "booking_id": "CNR2336567574",
+    "vehicle_type": "Bike",
+    "booking_value": 165
+  },
+  {
+    "booking_id": "CNR4731086359",
+    "vehicle_type": "Mini",
+    "booking_value": 254
+  },
+  {
+    "booking_id": "CNR8090491342",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 276
+  },
+  {
+    "booking_id": "CNR9127681202",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 940
+  },
+  {
+    "booking_id": "CNR5286354298",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 246
+  },
+  {
+    "booking_id": "CNR8870734166",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 316
+  },
+  {
+    "booking_id": "CNR1190545889",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 468
+  },
+  {
+    "booking_id": "CNR5636504807",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 104
+  },
+  {
+    "booking_id": "CNR9942371749",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 145
+  },
+  {
+    "booking_id": "CNR6789090500",
+    "vehicle_type": "eBike",
+    "booking_value": 272
+  },
+  {
+    "booking_id": "CNR1844854334",
+    "vehicle_type": "eBike",
+    "booking_value": 239
+  },
+  {
+    "booking_id": "CNR2246026373",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 1757
+  },
+  {
+    "booking_id": "CNR2243088727",
+    "vehicle_type": "Mini",
+    "booking_value": 478
+  },
+  {
+    "booking_id": "CNR7021692251",
+    "vehicle_type": "eBike",
+    "booking_value": 477
+  },
+  {
+    "booking_id": "CNR8046778446",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 485
+  },
+  {
+    "booking_id": "CNR5898065640",
+    "vehicle_type": "Mini",
+    "booking_value": 633
+  },
+  {
+    "booking_id": "CNR6934578961",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 169
   },
   {
     "booking_id": "CNR4742862800",
     "vehicle_type": "eBike",
-    "booking_value": 2660,
-    "payment_method": "null"
+    "booking_value": 2660
   },
   {
     "booking_id": "CNR4011812519",
     "vehicle_type": "Auto",
-    "booking_value": 2985,
-    "payment_method": "null"
+    "booking_value": 2985
+  },
+  {
+    "booking_id": "CNR7887752770",
+    "vehicle_type": "Auto",
+    "booking_value": 261
+  },
+  {
+    "booking_id": "CNR5340020140",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 272
+  },
+  {
+    "booking_id": "CNR6049297462",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 106
+  },
+  {
+    "booking_id": "CNR6047579059",
+    "vehicle_type": "Bike",
+    "booking_value": 253
+  },
+  {
+    "booking_id": "CNR4825238196",
+    "vehicle_type": "Prime SUV",
+    "booking_value": 386
+  },
+  {
+    "booking_id": "CNR2080513804",
+    "vehicle_type": "Auto",
+    "booking_value": 296
   },
   {
     "booking_id": "CNR6875488883",
     "vehicle_type": "Prime SUV",
-    "booking_value": 2912,
-    "payment_method": "Cash"
+    "booking_value": 2912
+  },
+  {
+    "booking_id": "CNR6546916337",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 302
+  },
+  {
+    "booking_id": "CNR4943582434",
+    "vehicle_type": "Auto",
+    "booking_value": 213
+  },
+  {
+    "booking_id": "CNR1935207341",
+    "vehicle_type": "Auto",
+    "booking_value": 782
+  },
+  {
+    "booking_id": "CNR7637695392",
+    "vehicle_type": "Prime Plus",
+    "booking_value": 393
+  },
+  {
+    "booking_id": "CNR7587940086",
+    "vehicle_type": "Mini",
+    "booking_value": 876
+  },
+  {
+    "booking_id": "CNR5540451518",
+    "vehicle_type": "eBike",
+    "booking_value": 736
+  },
+  {
+    "booking_id": "CNR8036988689",
+    "vehicle_type": "Auto",
+    "booking_value": 126
+  },
+  {
+    "booking_id": "CNR1143241219",
+    "vehicle_type": "Auto",
+    "booking_value": 333
+  },
+  {
+    "booking_id": "CNR5006774010",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 584
+  },
+  {
+    "booking_id": "CNR6969506417",
+    "vehicle_type": "eBike",
+    "booking_value": 450
+  },
+  {
+    "booking_id": "CNR9944707233",
+    "vehicle_type": "eBike",
+    "booking_value": 178
+  },
+  {
+    "booking_id": "CNR9159336322",
+    "vehicle_type": "Mini",
+    "booking_value": 1941
+  },
+  {
+    "booking_id": "CNR1187188822",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 224
+  },
+  {
+    "booking_id": "CNR8073310798",
+    "vehicle_type": "eBike",
+    "booking_value": 471
+  },
+  {
+    "booking_id": "CNR8317837479",
+    "vehicle_type": "Auto",
+    "booking_value": 185
+  },
+  {
+    "booking_id": "CNR1736142323",
+    "vehicle_type": "Prime Sedan",
+    "booking_value": 260
   }
 ]
